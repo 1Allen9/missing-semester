@@ -1,0 +1,26 @@
+#!/bin/bash
+cnt=0
+#for((c=0; c<5; c++))
+while [ true ]
+do
+	let cnt=cnt+1
+	#echo "test:$c"
+	#echo $(date)
+	#err_output=$(. Q3_Script )
+	err_output=$(. Q3_Script 2>&1 ) 
+	err_code=$?
+	echo $err_code
+	#echo $? >> err_capture.txt
+	#if [[ $? -eq 1 ]]; then
+	#if [[ $err_code -eq 1 ]]; then
+	if [[ $err_code -ne 0 ]]; then	
+		echo $(date)
+		echo $err_output > err_capture.txt
+		echo "err code = $err_code" >> err_capture.txt
+		echo "test cnt = $cnt" >> err_capture.txt
+		echo "----log end $(date)----" >> err_capture.txt
+		#echo $? >> err_capture.txt
+		break
+	fi
+	
+done

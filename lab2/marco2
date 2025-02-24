@@ -1,0 +1,1 @@
+echo $(pwd) > ~/EECS/mit-missing_semester/lab2/directory.txt
