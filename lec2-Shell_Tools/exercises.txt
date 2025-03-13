@@ -1,0 +1,14 @@
+ls -ltah
+  -l use a long listing format
+
+  -t sort by time, newest first; see --time
+
+  - List [a]ll files, including hidden files:
+    ls -a
+
+  -h, --human-readable
+              with -l and -s, print sizes like 1K 234M 2G etc.
+
+  - List [a]ll files, including hidden files:
+    ls -a
+
