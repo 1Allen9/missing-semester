@@ -1,0 +1,4 @@
+it took 70 times to get fail
+Something went wrong
+The error was using magic numbers
+---new line for ending, Sat 15 Mar 2025 12:23:30 AM CST---
