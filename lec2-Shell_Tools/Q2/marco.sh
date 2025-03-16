@@ -1,5 +1,5 @@
 #!/bin/bash
-#macro()
+macro()
 {
 	dir=$PWD
 	echo "current directory is $dir"
