@@ -1,0 +1,5 @@
+ctrl-p test
+<c-y>
+type a new filename
+then <c-y>, opoen a the file in vim
+then you can text it
