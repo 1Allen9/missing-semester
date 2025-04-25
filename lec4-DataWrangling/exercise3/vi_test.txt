@@ -1,0 +1,4 @@
+edit by vi (not vim)
+the control way is the same (basic operation)
+the .vimrc also active in vi
+
