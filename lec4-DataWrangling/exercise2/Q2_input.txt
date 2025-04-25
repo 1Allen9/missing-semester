@@ -1,0 +1,5 @@
+the first line is "world world"
+new line
+another text line contain world
+3 world: world world world
+how to repeat in vim

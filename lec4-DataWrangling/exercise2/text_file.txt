@@ -1,0 +1,5 @@
+first line of a test file
+second line of a test file
+third line of a test file
+fourth line of a test file
+5th line of a test file
