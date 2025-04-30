@@ -1,0 +1,1 @@
+journalctl -b | grep "Startup finished in .* = .*" | sed -E "s/.*= (.*)s./\1/"
