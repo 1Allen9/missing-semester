@@ -1,0 +1,1836 @@
+      3  ""
+      3  0 
+      3 00
+      3 00.0
+      3              000000070000003f
+      3  [0] 00 01 02 03 [0] 04 05 06 07 
+      3  0001
+      3              0001000f000000ff
+      3  0.0.2.41
+      3      007f4c95125713b112093e21663e2d23e3c1ae9ce4b5de0d58a297332336a2d8
+      3  [0] 08 09 10 11 [0] 12 13 14 15 
+      3  00a7468def'
+      3  00b28ddf47aef9cea7'
+      3 00/input/input0
+      3 00/input/input1
+      3 00/input/input2
+      3 02.0 on minor 1
+      3 02.0 (ops i915_audio_component_bind_ops [i915])
+      3 02.0 (ops i915_hdcp_ops [i915])
+      3 02.0 (ops i915_pxp_tee_component_ops [i915])
+      3      0257ff710f2a16e489b37493c07604a7cda96129d8a8fd68d2b6af633904315d
+      3      02e6216acaef6401401fa555ecbed940b1a5f2569aed92956137ae58482ef1b7
+      3      03f64a29948a88beffdb035e0b09a7370ccf0cd9ce6bcf8e640c2107318fab87
+      3      040b3bc339e9b6f9acd828b88f3482a5c3f64e67e5a714ba1da8a70453b34af6
+      3  0.5
+      3      05d87e15713454616f5b0ed7849ab5c1712ab84f02349478ec2a38f970c01489
+      3 05 [mem 0xfedc0000-0xfedc7fff]
+      3      0690eadbd2302957bf7912c2851c33463c855c10ad226a11bbfdc8d69d8a14b3
+      3      06eb5badd26e4fae65f9a42358deef7c18e52cc05fbb7fc76776e69d1b982a14
+      3      080a627e31bdc90041ad30b5604de9eae8c85abdb621b5b55d25cd13ed182d06
+      3      08bb2289e9e91b4d20ff3f1562516ab07e979b2c6cefe2ab70c6dfc1199f8da5
+      3      08d13a5ab1795d47a3830fb3e34437882514e0ffc9bcee122227c354d29ffd1d
+      3      0928f0408bf725e61d67d87138a8eebc52962d2847f16e3587163b160e41b6ad
+      3      09f98aa90f85198c0d73f89ba77e87ec6f596c491350fb8f8bba80a62fbb914b
+      3      0a75ea0b1d70eaa4d3f374246db54fc7b43e7f596a353309b9c36b4fd975725e
+      3      0c51d7906fc4931149765da88682426b2cfe9e6aa4f27253eab400111432e3a7
+      3 0 cap 1c0000c40660462 ecap 29a00f0505e
+      3 0 cap d2008c40660462 ecap f050da
+      3      0ce02100f67c7ef85f4eed368f02bf7092380a3c23ca91fd7f19430d94b00c19
+      3 0d.2/domain0/0-0
+      3 0d.2/domain0/0-0)
+      3 0d.3/domain1/1-0
+      3 0d.3/domain1/1-0)
+      3      0dc24c75eb1aef56b9f13ab9de60e2eca1c4510034e290bbb36cf60a549b234c
+      3      0fa3a29ad05130d7fe5bf4d2596563cded1d874096aacc181069932a2e49519a
+      3  0x0
+      3  0x00
+      3  0x0000
+      3  0x000000a07fffff
+      3  0x00000429
+      3  0x00000436
+      3  0x100800
+      3  0x17), firmware update will not work
+      3  0x1808
+      3  0x2
+      3  0x3)
+      3  0x463e)
+      3  0x466d)
+      3 0x59812ae16740] is on because it needs an allocation.
+      3 0x59812b6786d0] is on because it needs an allocation.
+      3 0x6209108e1ad0] is on because it needs an allocation.
+      3 0x620911ff9ef0] is on because it needs an allocation.
+      3  0x7)
+      3  0x79)
+      3  0xe2305c5c
+      3  0xfed00000
+      3  100437bb6de6e469b581e61cd66bce3ef4ed53af'
+      3 106faceacfecfd4e303b74f480a08098e2d0802b936f8ec774ce21f31686689c
+      3  107-51.22
+      3      109c91802d4eeca88bf607cbfa6a67449cc63f6e6e9bd0be6b20eed263420c04
+      3      10d45fcba396aef3153ee8f6ecae58afe8476a280a2026fc71f6217dcf49ba2f
+      3      1142a0cc7c9004dff64c5948484d6a7ec3514e176f5ca6bdeed7a093940b93cc
+      3  11, 8388608 bytes, linear)
+      3  11 files, 1557/130812 clusters
+      3  12, 16777216 bytes, linear)
+      3  128MB
+      3  12 ports detected
+      3  -13
+      3  13
+      3    #1  #3  #5  #7
+      3      136089ab3a7dc68c19f139558f0644dc57d32e9ceb79d6e54d9d6492ad2de614
+      3 14.0/usb3/3-3"
+      3 14.0/usb3/3-7"
+      3 14.3/ieee80211/phy0/rfkill2) (driver iwlwifi)
+      3      147730b42f11fe493fe902b6251e97cd2b6f34d36af59330f11d02a42f940d07
+      3      148fe18f715a9fcfe1a444ce0fff7f85869eb422330dc04b314c0f295d6da79e
+      3  14df34d1a87cf37625abec039ef2bf521249b969'
+      3      15dd2ff6416858790a5241c335f675540750f611110a5d2d67b4517d08260af9
+      3    16
+      3  16
+      3 16.0.15.1735
+      3  16380 KiB vmemmap can be freed for a 1.00 GiB page
+      3  1706
+      3 174e3a0b5b43c6a607bbd3404f05341e3dcf396267ce94f8b50e2e23a9da920c
+      3      1788d84aa61ede6f2e96cfc900ad1cab1c5be86537f27212e8c291d6ade3b1e9
+      3 1.89' (uid=1000 pid=1900 comm="/usr/bin/gnome-shell " label="unconfined")
+      3 1.90' (uid=1000 pid=2399 comm="/usr/libexec/tracker-miner-fs-3 " label="unconfined")
+      3  1910969940391419 ns
+      3  1911260446275000 ns
+      3  19200 kHz
+      3  192.168.1.1
+      3  19 ACPI AML tables successfully acquired and loaded
+      3 1a1f] type 00 class 0x020000 conventional PCI endpoint
+      3 1aec84b84b6c65a51220a9be7181965230210d62d6d33c48999c6b295a2b0a06
+      3      1b909115a8d473e51328a87823bd621ce655dfae54fa2bfa72fdc0298611d6b8
+      3      1cb4dccaf2c812cfa7b4938e1371fe2b96910fe407216fd95428672d6c7e7316
+      3      1d8b58c1fdb8da8b33ccee1e5f973af734d90ef317e33f5db1573c2ba088a80c
+      3      1e73f9dcf231163c9b99c9632b0c379b94209b068eda8945951f125edd6acc9f
+      3      1e918f170a796b4b0b1400bb9bdae75be1cf86705c2d0fc8fb9dd0c5016b933b
+      3      1e91fc3fee40bb2b6077f7e9a31f26c2e887ce91b41e5268ee795be53f11329b
+      3      1f16078cce009df62edb9e7170e66caae670bce71b8f92d38280c56aa372031d
+      3      1f179186efdf5ef2de018245ba0eae8134868601ba0d35ff3d9865c1537ced93
+      3 1f.3/skl_hda_dsp_generic/sound/card0/input29
+      3 1f.3/skl_hda_dsp_generic/sound/card0/input30
+      3 1f.3/skl_hda_dsp_generic/sound/card0/input31
+      3 1f.3/skl_hda_dsp_generic/sound/card0/input32
+      3 1f.4/i2c-0/0-0015/input/input25
+      3 1f.4/i2c-0/0-0015/input/input26
+      3 1 fd 14 paused 0
+      3 1 fd 15 paused 0
+      3 1 on lo.*.
+      3  1 pages in unavailable ranges
+      3  1 port detected
+      3      20082b6101f8d7dade206f4fdeb367622c11f809c4cf2d215d834460179ef2dd
+      3  2028K
+      3  2048 pages in unavailable ranges
+      3  2085701024 ns
+      3 21 UTC 2 (Ubuntu 6.8.0-58.60~22.04.1-generic 6.8.12)
+      3  22528 pages in unavailable ranges
+      3      23142e14424fb3ff4efc75d00b63867727841aba5005149070ee2417df8ab799
+      3  242ade75ac4a15e50d50c84b0d45ff3eae707a03'
+      3         #2  #4  #6  #8  #9 #10 #11 #12 #13 #14 #15
+      3   256
+      3  25611 pages in unavailable ranges
+      3      2679650fe341f2cf1ea883460b3556aaaf77a70d6b8dc484c9301d1b746cf7b5
+      3      270c84b29d86f16312b06aaae4ebb8dff8de7d080d825b8839ff1766274eff47
+      3      28412fa02802a3939a709f518798404582ff601e67ea9c542c78963f2eae18ff
+      3      284153e7d04a9f187e5c3dbfe17b2672ad2fbdd119f27bec789417b7919853ec
+      3      288878f12e8b9c6ccbf601c73d5f4e985cac0ff3fcb0c24e4414912b3eb91f15
+      3  28 KiB vmemmap can be freed for a 2.00 MiB page
+      3  2/8 memory slots populated (from DMI)
+      3 29c6eb52b43c3aa18b2cd8ed6ea8607cef3cfae1bafe1165755cf2e614844a44
+      3      29cca4544ea330d61591c784695c149c6b040022ac7b5b89cbd72800d10840ea
+      3      2b2298eaa26b9dc4a4558ae92e7bb0e4f85cf34bf848fdf636c0c11fbec49897
+      3 2b99cf26422e92fe365fbf4bc30d27086c9ee14b7a6fff44fb2f6b9001699939
+      3      2d59c29b059fe54a4f218be5b1f37723be29ba47ccddf07fdee604ecc57b3f62
+      3      2dcf8e8d817023d1e8e1451a3d68d6ec30d9bed94cbcb87f19ddc1cc0116ac1a
+      3 2e70916786a6f773511fa7181fab0f1d70b557c6322ea923b2a8d3b92b51af7d
+      3      2ea4cb6a1f1eb1d3dce82d54fde26ded243ba3e18de7c6d211902a594fe56788
+      3  2 was not an MTP device
+      3    3
+      3  3.0.0
+      3  301
+      3      311a2ac55b50c09b30b3cc93b994a119153eeeac54ef892fc447bbbd96101aa1
+      3      32ad3296829bc46dcfac5eddcb9dbf2c1eed5c11f83b2210cf9c6e60c798d4a7
+      3      32f5940ca29dd812a2c145e6fc89646628ffcc7c7a42cae512337d8d29c40bbd
+      3 331481088k SS
+      3      340da32b58331c8e2b561baf300ca9dfd6b91cd2270ee0e2a34958b1c6259e85
+      3      362ed31d20b1e00392281231a96f0a0acfde02618953e695c9ef2eb0bac37550
+      3  3632
+      3  365188c1d374d6b07c3c8f240f8ef722433d6a8b'
+      3      367a31e5838831ad2c074647886a6cdff217e6b1ba910bff85dc7a87ae9b5e98
+      3  36864k
+      3      3765d769c05bf98b427b3511903b2137e8a49b6f859d0af159ed6a86786aa634
+      3      37a480374daf6202ce790c318a2bb8aa3797311261160a8e30558b7dea78c7a6
+      3      386d695cdf2d4576e01bcaccf5e49e78da51af9955c0b8fa7606373b007994b3
+      3  388K
+      3      39dbc2288ef44b5f95332cb777e31103e840dba680634aa806f5c9b100061802
+      3      39e7da89ca9899b8ca2cb826d7fd910e525ac9e6784d54d8316e00650156a341
+      3      3a4f74beafae2b9383ad8215d233a6cf3d057fb3c7e213e897beef4255faee9d
+      3      3a91f0f9e5287fa2994c7d930b2c1a5ee14ce8e1c8304ae495adc58cc4453c0c
+      3      3ae76c45ca70e9180c1559981f42622dd251bca1fbe6b901c52ec11673b03514
+      3      3be8e7eb348d35c1928f19c769846788991641d1f6cf09514ca10269934f7359
+      3      3e3926f0b8a15ad5a14167bb647a843c3d4321e35dbc44dce8c837417f2d28b0
+      3      3ece27cbb3ec4438cce523b927c4f05fdc5c593a3766db984c5e437a3ff6a16b
+      3 3fce9b9fdf3ef09d5452b0f95ee481c2b7f06d743a737971558e70136ace3e73
+      3  3 was not an MTP device
+      3    4
+      3      400ac66d59b7b094a9e30b01a6bd013aff1d30570f83e7592f421dbe5ff4ba8f
+      3 4023)
+      3 4023.0003/power_supply/hidpp_battery_0
+      3  4046853
+      3      408b8b3df5abb043521a493525023175ab1261b1de21064d6bf247ce142153b9
+      3 4091.0004/input/input18
+      3      40d6cae02973789080cf4c3a9ad11b5a0a4d8bba4438ab96e276cc784454dee7
+      3      4185821f6dab5ba8347b78a22b5f9a0a7570ca5c93a74d478a793d83bac49805
+      3      41d1eeb177c0324e17dd6557f384e532de0cf51a019a446b01efb351bc259d77
+      3      4561a888723ef5d879b44b02144125c9566d4fc7c674ee5a6e3246e6457f3df9
+      3      45876b4dd861d45b3a94800774027a5db45a48b2a729410908b6412f8a87e95d
+      3 45c7c8ae750acfbb48fc37527d6412dd644daed8913ccd8a24c94d856967df8e
+      3 461d] type 00 class 0x118000 conventional PCI endpoint
+      3 461e] type 00 class 0x0c0330 conventional PCI endpoint
+      3 4621] type 00 class 0x060000 conventional PCI endpoint
+      3 463e] type 00 class 0x0c0340 conventional PCI endpoint
+      3 464d] type 01 class 0x060400 PCIe Root Port
+      3 464f] type 00 class 0x088000 conventional PCI endpoint
+      3      4667bf250cd7c1a06b8474c613cdb1df648a7f58736fbf57d05d6f755dab67f4
+      3 466d] type 00 class 0x0c0340 conventional PCI endpoint
+      3 466e] type 01 class 0x060400 PCIe Root Port
+      3 467d] type 00 class 0x118000 PCIe Root Complex Integrated Endpoint
+      3 46a6] type 00 class 0x030000 PCIe Root Complex Integrated Endpoint
+      3      47b31a1c7867644b2ee8093b2d5fbe21e21f77c1617a2c08812f57ace0850e9f
+      3 47cc086127e2069a86e03a6bef2cd410f8c55a6d6bdb362168c31b2ce32a5adf
+      3 47ff1b63b140b6fc04ed79131331e651da5b2e2f170f5daef4153dc2fbc532b1
+      3      48befa8cab6dbe7493ede483396bb41ba9d46594606174b7fbca3c0d17e2b6aa
+      3      48f4584de1c5ec650c25e6c623635ce101bd82617fc400d4150f0aee2355b4ca
+      3  48K
+      3      495300790e6c9bf2510daba59db3d57e9d2b85d7d7640434ec75baa3851c74e5
+      3  4984K
+      3      4aa5f09f5022eefbee350d0ded72654d21a9e77deec49fefb45994708be11703
+      3      4b8668a5d465bcdd9000aa8dfcff42044fcbd0aece32fc7011a83e9160e89f09
+      3  4b91a68732eaefdd2c8ffffc6b027ec3449e9c8f'
+      3      4cdae3920a512c9c052a8b4aba9096969b0a0197b614031e4c64a5d898cb09b9
+      3  4cf046892d6fd3c9a5b03f98d845f90851dc6a8c'
+      3 4e
+      3      4f0214fce4fa8897d0c80a46d6dab4124726d136fc2492efd01bfedfa3887a9c
+      3  4KB 0, 2MB 0, 4MB 0
+      3  4KB 0, 2MB 0, 4MB 0, 1GB 0
+      3  512 byte EE1004-compliant SPD EEPROM, read-only
+      3  512 (order 0, 4096 bytes)
+      3  5, 131072 bytes, linear)
+      3 5182] type 00 class 0x060100 conventional PCI endpoint
+      3 51a3] type 00 class 0x0c0500 conventional PCI endpoint
+      3 51a4] type 00 class 0x0c8000 conventional PCI endpoint
+      3 51c8] type 00 class 0x040100 conventional PCI endpoint
+      3 51e0] type 00 class 0x078000 conventional PCI endpoint
+      3 51e8] type 00 class 0x0c8000 conventional PCI endpoint
+      3 51ea] type 00 class 0x0c8000 conventional PCI endpoint
+      3 51ed] type 00 class 0x0c0330 conventional PCI endpoint
+      3 51ef] type 00 class 0x050000 conventional PCI endpoint
+      3 51f0] type 00 class 0x028000 PCIe Root Complex Integrated Endpoint
+      3      540801dd345dc1c33ef431b35bf4c0e68bd319b577b9abe1a9cff1cbc39f548f
+      3 5411] type 00 class 0x010802 PCIe Endpoint
+      3      57e6913afacc5222bd76cdaf31f8ed88895464255374ef097a82d7f59ad39596
+      3      5890fa227121c76d90ed9e63c87e3a6533eea0f6f0a1a23f1fc445139bc6bcdf
+      3 58fb941aef95a25943b3fb5f2510a0df3fe44c58c95e0ab80487297568ab9771
+      3 59 App is up to date.
+      3 59 Latest version is 1.8.10
+      3 59 Success.
+      3      5b248e913d71853d3da5aedd8d9a4bc57a917126573817fb5fcb2d86a2f1c886
+      3      5b89f1aa2435a03d18d9b203d17fb4fba4f8f5076cf1f9b8d6d9b826222235c1
+      3      5c2afe34bd8a7aebbb439c251dfb6a424f00e535ac4df61ec19745b6f10e893a
+      3      5c5805196a85e93789457017d4f9eb6828b97c41cb9ba6d3dc1fcc115f527a55
+      3      5d1e9acbbb4a7d024b6852df025970e2ced66ff622ee019cd0ed7fd841ccad02
+      3      5e41b89f7f471806e1917efdd040953cc22f3f362e7b71423ff70e55b98adb13
+      3  5 entries (3 fixed + 2 variable; max 23), built from 10 variable MTRRs
+      3       6
+      3      61341e07697978220ea61e85dcd2421343f2c1bf35cc5b8d0ad2f0226f391479
+      3  61c038651aabdcf94bd0ac7ff06c7248db18c600'
+      3      61cec4a377bf5902c0feaee37034bf97d5bc6e0615e23a1cdfbae6e3f5fb3cfd
+      3      631f0857b41845362c90c6980b4b10c4b628e23dbe24b6e96c128ae3dcb0d5ac
+      3  6, 393216 bytes, linear)
+      3 64575bd912789a2e14ad56f6341f52af6bf80cf94400785975e9f04e2d64d745
+      3 64 fd 32 paused 0
+      3 64 fd 33 paused 0
+      3      65b2e7cc18d903c331df1152df73ca0dc932d29f17997481c56f3087b2dd3147
+      3      65f3c0a01b8402d362b9722e98f75e5e991e6c186e934f7b2b2e6be6dec800ec
+      3 66a9 on wlp0s20f3.
+      3 66a9 on wlp0s20f3.*.
+      3      66aa13a0edc219384d9c425d3927e6ed4a5d1940c5e7cd4dac88f5770103f2f1
+      3      66d0803e2550d9e790829ae1b5f81547cc9bfbe69b51817068ecb5dabb7a89fc
+      3 66 fd 31 paused 0
+      3 66 fd 32 paused 0
+      3 67 fd 37 paused 0
+      3 67 fd 38 paused 0
+      3      6873d2f61c29bd52e954eeff5977aa8367439997811a62ff212c948133c68d97
+      3      68ee4632c7be1c66c83e89dd93eaee1294159abf45b4c2c72d7dc7499aa2a043
+      3 68 fd 33 paused 0
+      3 68 fd 34 paused 0
+      3 69 fd 34 paused 0
+      3 69 fd 35 paused 0
+      3      6a0e824654b7479152058cf738a378e629483874b6dbd67e0d8c3327b2fcac64
+      3      6c611bd22926d8778f0a6b0a095a839d6bbc40d5ad23f55b9f8560647361ffc7
+      3      6cca75ea065b35b9aac96999dc3a4254cde518139169c4bd160797f8e63e29ed
+      3      6dbbead23e8c860cf8b47f74fbfca5204de3e28b881313bb1d1eccdc4747934e
+      3      6dead13257dfc3ccc6a4b37016ba91755fe9e0ec1f415030942e5abc47f07c88
+      3      6efefe0b5b01478b7b944c10d3a8aca2cca4208888e2059f8a06cb5824d7bab0
+      3      70a1450af2ad395569ad0afeb1d9c125324ee90aec39c258880134d4892d51ab
+      3 70 fd 35 paused 0
+      3 70 fd 36 paused 0
+      3  71936K
+      3 71f2906fd222497e54a34662ab2497fcc81020770ff51368e9e3d9bfcbfd6375
+      3 71 fd 36 paused 0
+      3 71 fd 37 paused 0
+      3      72c26f827ceb92989798961bc6ae748d141e05d3ebcfb65d9041b266c920be82
+      3 72 fd 38 paused 0
+      3 72 fd 39 paused 0
+      3      73782e2981c4eed10ca0170dd06b2adf54b1b6e95112fc60db610c1039e3931a
+      3 73 fd 28 paused 0
+      3 73 fd 29 paused 0
+      3      781764102188a8b4b173d4a8f5ec94d828647156097f99357a581e624b377509
+      3      788383a4c733bb87d2bf51673dc73e92df15ab7d51dc715627ae77686d8d23bc
+      3      78b4edcaabc8d9093e20e217802caeb4f09e23a3394c4acc6e87e8f35395310f
+      3      7ac0bd56947b20b82303e2f47d4876540989872ec39d08daf5635240b5ee7e9f
+      3      7bc9cb5463ce0f011fb5085eb8ba77d1acd283c43f4a57603cc113f22cebc579
+      3      7eac80a915c84cd4afec638904d94eb168a8557951a4d539b0713028552b6b8c
+      3      7f49ccb309323b1c7ab11c93c955b8c744f0a2b75c311f495e18906070500027
+      3       8
+      3     8
+      3  8/0/0 default/read/poll queues
+      3      804e354c6368bb27a90fae8e498a57052b293418259a019c4f53a2007254490f
+      3  8, 1048576 bytes, linear)
+      3      81a8b2c9751aeb1faba7dbde5ee9691dc0eaee2a31c38b1491a8146756a6b770
+      3      81d8fb4c9e2e7a8225656b4b8273b7cba4b03ef2e9eb20e0a0291624eca1ba86
+      3  8250/16550 driver, 32 ports, IRQ sharing enabled
+      3      82acba48d5236ccff7659afc14594dee902bd6082ef1a30a0b9b508628cf34f4
+      3 82db3bceb4f60843ce9d97c3d187cd9b5941cd3de8100e586f2bda5637575f67
+      3      835881f2a5572d7059b5c8635018552892e945626f115fc9ca07acf7bde857a4
+      3  838b1f54c1550463f45f98700640f11069265949'
+      3 86400'
+      3  88f752e560a1e0737e31163a466ad7b70a850c19'
+      3      894d7839368f3298cc915ae8742ef330d7a26699f459478cf22c2b6bb2850166
+      3      89f3d1f6e485c334cd059d0995e3cdfdc00571b1849854847a44dc5548e2dcfb
+      3      8a6e68d85ab00fd79783bfb955cf989bd1938f02dc57e371fb07eb1faaf55901
+      3 8ad64859f195b5f58dafaa940b6a6167acd67a886e8f469364177221c55945b9
+      3      8c0349d708571ae5aa21c11363482332073297d868f29058916529efc520ef70
+      3      8c1edb6a3f46d13cc6e58f6d2c7efd958ec079aa029478baba9aa9f53db9f0e3
+      3      8ce986614e7037218a61db51b876341898817741ade85156cf54bd1cd17999a6
+      3 8d8ea289cfe70a1c07ab7365cb28ee51edd33cf2506de888fbadd60ebf80481c
+      3      8d93d60c691959651476e5dc464be12a85fa5280b6f524d4a1c3fcc9d048cfad
+      3      8e53efdc15f852cee5a6e92931bc42e6163cd30ff649cca7e87252c3a459960b
+      3  8 rules loaded
+      3      9063f5fbc5e57ab6de6c9488146020e172b176d5ab57d4c89f0f600e17fe2de2
+      3      90aec5c4995674a849c1d1384463f3b02b5aa625a5c320fc4fe7d9bb58a62398
+      3 90fbe70e69d633408d3e170c6832dbb2d209e0272527dfb63d49d29572a6f44c
+      3  90s]
+      3      91656aa4ef493b3824a0b7263248e4e2d657a5c8488d880cb65b01730932fb53
+      3      91721aa76266b5bb2f8009f1188510a36e54afd56e967387ea7d0b114d782089
+      3      91971c1497bf8e5bc68439acc48d63ebb8faabfd764dcbe82f3ba977cac8cf6a
+      3      947078f97c6196968c3ae99c9a5d58667e86882cf6c8c9d58967a496bb7af43c
+      3      95049f0e4137c790b0d2767195e56f73807d123adcf8f6e7bf2d4d991d305f89
+      3      96e4509450d380dac362ff8e295589128a1f1ce55885d20d89c27ba2a9d00909
+      3      9783b5ee4492e9e891c655f1f48035959dad453c0e623af0fe7bf2c0a57885e3
+      3      97a51a094444620df38cd8c6512cac909a75fd437ae1e4d22929807661238127
+      3      97a8c5ba11d61fefbb5d6a05da4e15ba472dc4c6cd4972fc1a035de321342fe4
+      3  97 pages in unavailable ranges
+      3      992820e6ec8c41daae4bd8ab48f58268e943a670d35ca5e2bdcd3e7c4c94a072
+      3 992d359aa7a5f789d268b94c11b9485a6b1ce64362b0edb4441ccc187c39647b
+      3      9954a1a99d55e8b189ab1bca414b91f6a017191f6c40a86b6f3ef368dd860031
+      3      9959ed4e05e548b59f219308a45563ea85bb224c1ad96dec0e96c0e71ffccd81
+      3      99d7ada0d67e5233108dbd76702f4b168087cfc4ec65494d6ca8aba858febada
+      3      9b4bf870dcb0610a34e441d32669dcce2abe5e697c67b7c4328a891397f4db0c
+      3      9baf4f76d76bf5d6a897bfbd5f429ba14d04e08b48c3ee8d76930a828fff3891
+      3      9c259fcb301d5fc7397ed5759963e0ef6b36e42057fd73046e6bd08b149f751c
+      3      9d00ae4cd47a41c783dc48f342c076c2c16f3413f4d2df50d181ca3bb5ad859d
+      3      9dd2dcb72f5e741627f2e9e03ab18503a3403cf6a904a479a4db05d97e2250a9
+      3      9e531d100ac08c28833fad3ca5d3b863bd1323d2f118f83d9db2b21407ca9e64
+      3      9ed33f0fbc180bc032f8909ca2c4ab3418edc33a45a50d2521a3b5876aa3ea2c
+      3      9f1863ed5717c394b42ef10a6607b144a65ba11fb6579df94b8eb2f0c4cd60c1
+      3      9fa4d5023fd43ecaff4200ba7e8d4353259d2b7e5e72b5096eff8027d66d1043
+      3 a1
+      3      a4d978b7c4bda15435d508f8b9592ec2a5adfb12ea7bad146a35ecb53094642f
+      3      a608a87f51bdf7532b4b80fa95eadfdf1bf8b0cbb58a7d3939c9f11c12e71c85
+      3  a8d54bbb3825cfb94fa13c9f8a594a195c107b8d'
+      3      a924d3cad6da42b7399b96a095a06f18f6b1aba5b873b0d5f3a0ee2173b48b6c
+      3  a92902398e16c49778cd90f99e4f9ae17c55af53'
+      3  AC Adapter [AC] (on-line)
+      3      acd9b08302c0fa9c87d14920beee724b92144774dc095a22ee5d8f023e80d677
+      3  ACPI=0x927fe000 ACPI 2.0=0x927fe014 TPMFinalLog=0x9268e000 SMBIOS=0x8e8af000 SMBIOS 3.0=0x8e8a2000 MEMATTR=0x87f2e018 ESRT=0x88603998 MOKvar=0x8c9d9000 RNG=0x927fd018 TPMEventLog=0x927f1018 
+      3  acquired D-Bus service "org.freedesktop.NetworkManager"
+      3  Acquired the name org.freedesktop.UDisks2 on the system message bus
+      3  Acquired UNIX socket '/run/systemd/journal/syslog' (fd 3) from systemd.  [v8.2112.0]
+      3  Activated swap /swapfile.
+      3  Activating swap /swapfile...
+      3  active
+      3      ad3be589c0474e97de5bb2bf33534948b76bb80376dfdc58b1fed767b5a15bfc
+      3  added 'auth_alg' value 'OPEN'
+      3  added 'key_mgmt' value 'WPA-PSK WPA-PSK-SHA256 FT-PSK SAE FT-SAE'
+      3  Added _OSI(3.0 _SCP Extensions)
+      3  Added _OSI(Module Device)
+      3  Added _OSI(Processor Aggregator Device)
+      3  Added _OSI(Processor Device)
+      3  added 'psk' value '<hidden>'
+      3  added 'scan_ssid' value '1'
+      3  added 'ssid' value 'CMCC-keFm-5G'
+      3  Adding to iommu group 0
+      3  Adding to iommu group 1
+      3  Adding to iommu group 11
+      3  Adding to iommu group 13
+      3  Adding to iommu group 2
+      3  Adding to iommu group 3
+      3  Adding to iommu group 4
+      3  Adding to iommu group 5
+      3  Adding to iommu group 6
+      3  Adding to iommu group 9
+      3  adding wildcard app */*/*/org.gnome.Builder.desktop/* to plugin cache
+      3  adding wildcard app */*/*/org.gnome.Calculator.desktop/* to plugin cache
+      3  adding wildcard app */*/*/org.gnome.clocks.desktop/* to plugin cache
+      3  adding wildcard app */*/*/org.gnome.Dictionary.desktop/* to plugin cache
+      3  adding wildcard app */*/*/org.gnome.Documents.desktop/* to plugin cache
+      3  adding wildcard app */*/*/org.gnome.Evince/* to plugin cache
+      3  adding wildcard app */*/*/org.gnome.gedit.desktop/* to plugin cache
+      3  adding wildcard app */*/*/org.gnome.Maps.desktop/* to plugin cache
+      3  adding wildcard app */*/*/org.gnome.Weather/* to plugin cache
+      3  Adjusting geometry for rcu_fanout_leaf=16, nr_cpu_ids=16
+      3  AE_ALREADY_EXISTS, During name lookup/catalog (20230628/psobject-220)
+      3 aeebae3151271273ed95aa2e671139ed31a98567303a332298f83709a9d55aa1
+      3  AES CTR mode by8 optimization enabled
+      3      af79b14064601bc0987d4747af1e914a228c05d622ceda03b7a4f67014fee767
+      3  alarms up to one month, y3k, 114 bytes nvram
+      3  All available theme snaps installed
+      3  allocated 228 pages with 4 groups
+      3  allocated 64 MiB host memory buffer.
+      3  allocating 58152 entries in 228 pages
+      3  Allowing 16 CPUs, 0 hotplug CPUs
+      3    AMD AuthenticAMD
+      3  APIC 0x000000008E88E000 0001DC (v05 LENOVO TP-R1S   00001200 PTEC 00000002)
+      3  apic_id 2, version 32, address 0xfec00000, GSI 0-119
+      3  API lock is enabled
+      3  API unit is 2^-32 Joules, 3 fixed counters, 655360 ms ovfl timer
+      3  AppArmor D-Bus mediation is enabled
+      3  AppArmor Filesystem Enabled
+      3  AppArmor initialized
+      3  AppArmor sha256 policy hashing enabled
+      3  Applying Intel DDC parameters completed
+      3  area num 16.
+      3  Argument #4 type mismatch - Found [Integer], ACPI requires [Package] (20230628/nsarguments-61)
+      3  assertion 'G_IS_OBJECT (object)' failed
+      3  associated
+      3  assuming hardware version 4 (with firmware version 0x5f3001)
+      3  Asymmetric key parser 'x509' registered
+      3  AT Translated Set 2 keyboard as /devices/platform/i8042/serio0/input/input3
+      3  attribute size returned no data
+      3  authenticated
+      3  authenticated for all workloads
+      3  auto-activating connection 'CMCC-keFm-5G' (197316c9-0739-4efb-90c4-48b1bc47fee1)
+      3  avahi-daemon 0.8 starting up.
+      3  AVX2 version of gcm_enc/dec engaged.
+      3  'AVX registers'
+      3      b1bc5ef4f5c7e8f683601217650f42e7d69efc0098c22a4989c7990b7771c277
+      3      b3e506340fbf6b5786973393079f24b66ba46507e35e911db0362a2acde97049
+      3      b8d6b5e7857b45830e017c7be3d856adeb97c7290eb0665a3d473a4beb51dcf3
+      3      b92af298dc08049b78c77492d6551b710cd72aada3d77be54609e43278ef6e4d
+      3      b93f0699598f8b20fa0dacc12cfcfc1f2568793f6e779e04795e6d7c22530f75
+      3      badff5e4f0fea711701ca8fb22e4c43821e31e210cf52d1d4f74dd50f1d039bc
+      3  BAR 0 [mem 0x601c000000-0x601cffffff 64bit]
+      3  BAR 0 [mem 0x601d100000-0x601d13ffff 64bit]
+      3  BAR 0 [mem 0x601d140000-0x601d17ffff 64bit]
+      3  BAR 0 [mem 0x601d180000-0x601d19ffff 64bit]
+      3  BAR 0 [mem 0x601d1a0000-0x601d1affff 64bit]
+      3  BAR 0 [mem 0x601d1b0000-0x601d1bffff 64bit]
+      3  BAR 0 [mem 0x601d1c0000-0x601d1c7fff 64bit]
+      3  BAR 0 [mem 0x601d1c8000-0x601d1cbfff 64bit]
+      3  BAR 0 [mem 0x601d1cc000-0x601d1cffff 64bit]
+      3  BAR 0 [mem 0x601d1d0000-0x601d1d3fff 64bit]
+      3  BAR 0 [mem 0x601d1d4000-0x601d1d40ff 64bit]
+      3  BAR 0 [mem 0x601d1d5000-0x601d1d5fff 64bit]
+      3  BAR 0 [mem 0x601d1db000-0x601d1dbfff 64bit]
+      3  BAR 0 [mem 0xae200000-0xae203fff 64bit]
+      3  BAR 0 [mem 0xae300000-0xae31ffff]
+      3  BAR 0 [mem 0xfe010000-0xfe010fff]
+      3  BAR 2 [mem 0x4000000000-0x400fffffff 64bit pref]
+      3  BAR 2 [mem 0x601d1d8000-0x601d1d8fff 64bit]
+      3  BAR 2 [mem 0x601d1d9000-0x601d1d9fff 64bit]
+      3  BAR 2 [mem 0x601d1da000-0x601d1dafff 64bit]
+      3  BAR 4 [io  0x2000-0x203f]
+      3  BAR 4 [io  0xefa0-0xefbf]
+      3  BAR 4 [mem 0x601d000000-0x601d0fffff 64bit]
+      3  BATB 0x000000008E810000 00004A (v02 LENOVO TP-R1S   00001200 PTEC 00000002)
+      3      bb01da0333bb639c7e1c806db0561dc98a5316f22fef1090fb8d0be46dae499a
+      3      bb1dd16d530008636f232303a7a86f3dff969f848815c0574b12c2d787fec93f
+      3      bb4919d8f38dba90154f963c47be83b665076c6eb4b230b3cee91e4b7706cc12
+      3      bc75f910ff320f5cb5999e66bbd4034f4ae537a42fdfef35161c5348e366e216
+      3      bdd01126e9d85710d3fe75af1cc1702a29f081b4f6fdf6a2b2135c0297a9cec5
+      3      bdd4086c019f5d388453c6d93475d39a576572baff75612c321b46a35a5329b1
+      3      be435df7cd28aa2a7c8db4fc8173475b77e5abf392f76b7c76fa3f698cb71a9a
+      3  becoming mindful.
+      3      bef7663be5ea4dbfd8686e24701e036f4c03fb7fcd67a6c566ed94ce09c44470
+      3  Beginning session setup...
+      3  BGRT 0x000000008C9DC000 000038 (v01 LENOVO TP-R1S   00001200 PTEC 00000002)
+      3  "BIOS"
+      3  BIOS _OSI(Linux) query ignored
+      3  Block layer SCSI generic (bsg) driver version 0.4 loaded (major 243)
+      3  Bluetooth daemon 5.64
+      3  Bluetooth management interface 1.22 initialized
+      3  BNEP (Ethernet Emulation) ver 1.3
+      3  BNEP socket layer initialized
+      3  bolt 0.9.2 starting up.
+      3  Boot ECDT EC initialization complete
+      3  Boot ECDT EC used to handle transactions
+      3      BOOT_IMAGE=/boot/vmlinuz-6.8.0-58-generic
+      3  Booting paravirtualized kernel on bare hardware
+      3  Bootloader timestamp 2019.40 buildtype 1 build 38
+      3  bound usb2-port1 (ops connector_ops)
+      3  bound usb3-port1 (ops connector_ops)
+      3  bridge control possible
+      3    bridge window [io  0x3000-0x3fff]
+      3  Bringing up secondary CPUs ...
+      3  Brought up 1 node, 16 CPUs
+      3  bus type drm_connector registered
+      3  bus type thunderbolt registered
+      3  bus type USB registered
+      3  c0746fd6c5da3ae827864651ad66ae47fe24b3e8'
+      3  c1d57b8f6b743f23ee41f4f7ee292f06eecadfb9'
+      3      c2469759c1947e14f4b65f72a9f5b3af8b6f6e727b68bb0d91385cbf42176a8a
+      3      c3505bf3ec10a51dace417c76b8bd10939a065d1f34e75b8a3065ee31cc69b96
+      3 c3a99a460da464a057c3586d83cef5f4ae08b7103979ed8932742df0ed530c66
+      3      c3d65e174d47d3772cb431ea599bba76b8670bfaa51081895796432e2ef6461f
+      3 c409bdac4775add8db92aa22b5b718fb8c94a1462c1fe9a416b95d8a3388c2fc
+      3      c42d11c70ccf5e8cf3fb91fdf21d884021ad836ca68adf2cbb7995c10bf588d4
+      3 c452ab846073df5ace25cca64d6b7a09d906308a1a65eb5240e3c4ebcaa9cc0c
+      3 C534.0002/input/input8
+      3 C534.0002/input/input9
+      3      c55be4a2a6ac574a9d46f1e1c54cac29d29dcd7b9040389e7157bb32c4591c4c
+      3 c5d9d8a186e2c82d09afaa2a6f7f2e73870d3e64f72c4e08ef67796a840f0fbd
+      3 c617c1a8b1ee2a811c28b5a81b4c83d7c98b5b0c27281d610207ebe692c2967f
+      3      c69d64a5b839e41ba16742527e17056a18ce3c276fd26e34901a1bc7d0e32219
+      3      c805603c4fa038776e42f263c604b49d96840322e1922d5606a9b0bbb5bffe6f
+      3 c90f336617b8e7f983975413c997f10b73eb267fd8a10cb9e3bdbfc667abdb8b
+      3      c9ec350406f26e559affb4030de2ebde5435054c35a998605b8fcf04972d8d55
+      3      ca65a9b2915d9a055a407bc0698936349a04e3db691e178419fba701aad8de55
+      3  Calibrating delay loop (skipped), value calculated using timer frequency.. 4224.00 BogoMIPS (lpj=2112000)
+      3  caller igen6_probe+0x1bb/0x5f0 [igen6_edac] mapping multiple BARs
+      3  Canary thread running.
+      3  Cannot allocate resource for EISA slot 1
+      3  Cannot allocate resource for EISA slot 2
+      3  Cannot allocate resource for EISA slot 3
+      3  Cannot allocate resource for EISA slot 4
+      3  Cannot allocate resource for EISA slot 5
+      3  Cannot allocate resource for EISA slot 6
+      3  Cannot allocate resource for EISA slot 7
+      3  Cannot allocate resource for EISA slot 8
+      3  Cannot allocate resource for mainboard
+      3  cannot write to "/var/lib/snapd/hostfs/usr/share/gimp/2.0/help" because it would affect the host in "/var/lib/snapd"
+      3  cannot write to "/var/lib/snapd/hostfs/usr/share/javascript" because it would affect the host in "/var/lib/snapd"
+      3  cannot write to "/var/lib/snapd/hostfs/usr/share/sphinx_rtd_theme" because it would affect the host in "/var/lib/snapd"
+      3  cannot write to "/var/lib/snapd/hostfs/usr/share/xubuntu-docs" because it would affect the host in "/var/lib/snapd"
+      3  can't claim; no compatible bridge window
+      3      cb340011afeb0d74c4a588b36ebaa441961608e8d2fa80dca8c13872c850796b
+      3      cb994b400590b66cbf55fc663555caf0d4f1ce267464d0452c2361e05ee1cd50
+      3      cc8eec6eb9212cbf897a5ace7e8abeece1079f1a6def0a789591cb1547f1f084
+      3    Centaur CentaurHauls
+      3      cf13a243c1cd2e3c8ceb7e70100387cecbfb830525bbf9d0b70c79adf3e84128
+      3      /C=GB/ST=Isle of Man/O=Canonical Ltd./OU=Secure Boot/CN=Canonical Ltd. Secure Boot Signing
+      3  Checking session /org/freedesktop/login1/session/_32...
+      3  Checking session /org/freedesktop/login1/session/c1...
+      3  Chicony Electronics Co.,Ltd.
+      3      /C=JP/ST=Kanagawa/L=Yokohama/O=Lenovo Ltd./CN=Lenovo Ltd. KEK CA 2012
+      3      /C=JP/ST=Kanagawa/L=Yokohama/O=Lenovo Ltd./CN=Lenovo Ltd. PK CA 2012
+      3      /C=JP/ST=Kanagawa/L=Yokohama/O=Lenovo Ltd./CN=ThinkPad Product CA 2012
+      3  Clear Register File
+      3  CLS 0 bytes, default 64
+      3  cluster x2apic
+      3      /CN=Debian Secure Boot Signer
+      3  colour dummy device 80x25
+      3  Condition check resulted in Auto import assertions from block devices being skipped.
+      3  Condition check resulted in Automatically repair incorrect owner/permissions on core devices being skipped.
+      3  Condition check resulted in First Boot Complete being skipped.
+      3  Condition check resulted in getty on tty2-tty6 if dbus and logind are not available being skipped.
+      3  Condition check resulted in GNOME Initial Setup being skipped.
+      3  Condition check resulted in GNOME Initial Setup Copy Worker being skipped.
+      3  Condition check resulted in GNOME Shell on Wayland being skipped.
+      3  Condition check resulted in Manage Sound Card State (restore and store) being skipped.
+      3  Condition check resulted in Process error reports when automatic reporting is enabled (file watch) being skipped.
+      3  Condition check resulted in Process error reports when automatic reporting is enabled (timer based) being skipped.
+      3  Condition check resulted in Timer to automatically fetch and run repair assertions being skipped.
+      3  Condition check resulted in Ubuntu Pro Background Auto Attach being skipped.
+      3  Condition check resulted in Ubuntu Pro reboot cmds being skipped.
+      3  Condition check resulted in Ubuntu Pro Timer for running repeated jobs being skipped.
+      3  Condition check resulted in Unix socket for apport crash forwarding being skipped.
+      3  Condition check resulted in Wait for the Ubuntu Core chooser trigger being skipped.
+      3  CONFIG_IMA_DISABLE_HTABLE is disabled. Duplicate IMA measurements will not be recorded in the IMA log.
+      3  Consider using thermal netlink events interface
+      3  contains BAR 0 for 7 VFs
+      3  contains BAR 2 for 7 VFs
+      3  'Control-flow User registers'
+      3  Copyright(c) 1999 - 2015 Intel Corporation.
+      3  Core revision 20230628
+      3  Core ver 2.22
+      3  Correctable Errors collector initialized.
+      3  Could not find org.bluez.BatteryProviderManager1.RegisterBatteryProvider(), is bluetoothd started with experimental features enabled (-E flag)?
+      3  Couldn't resolve host name (6)
+      3  crashing the kernel on kernel split_locks and warning on user-space split_locks
+      3  created default wired connection 'Wired connection 1'
+      3  Created slice Slice /app/gnome-session-manager.
+      3  Created slice Slice /app/org.gnome.Terminal.
+      3  Created slice Slice /system/getty.
+      3  Created slice Slice /system/modprobe.
+      3  Created slice Slice /system/systemd-backlight.
+      3  Created slice Slice /system/systemd-fsck.
+      3  Created slice User and Session Slice.
+      3  Created slice User Background Tasks Slice.
+      3  Created slice User Slice of UID 1000.
+      3  Created slice User Slice of UID 128.
+      3  crng init done
+      3  (CRON) INFO (pidfile fd = 3)
+      3  (CRON) INFO (Running @reboot jobs)
+      3  CTRL-EVENT-REGDOM-CHANGE init=DRIVER type=COUNTRY alpha2=CN
+      3  CTRL-EVENT-SUBNET-STATUS-UPDATE status=0
+      3      /C=US/ST=North Carolina/O=Lenovo/CN=Lenovo UEFI CA 2014
+      3      /C=US/ST=Washington/L=Redmond/O=Microsoft Corporation/CN=Microsoft Corporation KEK CA 2011
+      3      /C=US/ST=Washington/L=Redmond/O=Microsoft Corporation/CN=Microsoft Windows Production PCA 2011
+      3 d063ec28f67eba53f1642dbf7dff33c6a32add869f6013fe162e2c32f1cbe56d
+      3      d12924557c7e2714a9c77f64d6cd391fdd6509fc138ccde16512ef226d15fa7f
+      3      d372c0d0f4fdc9f52e9e1f23fc56ee72414a17f350d0cea6c26a35a6c3217a13
+      3 d3 (capab=0x1511 status=0 aid=4)
+      3 d3 completed [id=0 id_str=]
+      3 d3 [PTK=CCMP GTK=CCMP]
+      3      d4241190cd5a369d8c344c660e24f3027fb8e7064fab33770e93fa765ffb152e
+      3 d626157e1d6a718bc124ab8da27cbb65072ca03a7b6b257dbdcbbd60f65ef3d1
+      3      d6ee8db782e36caffb4d9f8207900487de930aabcc1d196fa455fbfd6f37273d
+      3      d89a11d16c488dd4fbbc541d4b07faf8670d660994488fe54b1fbff2704e4288
+      3      d8d4e6ddf6e42d74a6a536ea62fd1217e4290b145c9e5c3695a31b42efb5f5a4
+      3      d9247336ac0d12cabf04dfd88227d1e640c0dc59739bd5b3ca17df90b3331c3b
+      3      d9668ab52785086786c134b5e4bddbf72452813b6973229ab92aa1a54d201bf5
+      3      da3560fd0c32b54c83d4f2ff869003d2089369acf2c89608f8afa7436bfa4655
+      3  daemon start
+      3      db34cfa2f5239656efeb51537a7eacb98aec10ed2b40209c0f50dcd3df6b50cd
+      3      dbaf9e056d3d5b38b68553304abc88827ebc00f80cb9c7e197cdbc5822cd316c
+      3  DBG2 0x000000008E82A000 000054 (v00 LENOVO TP-R1S   00001200 PTEC 00000002)
+      3  DBGP 0x000000008E82B000 000034 (v01 LENOVO TP-R1S   00001200 PTEC 00000002)
+      3      dc8aff7faa9d1a00a3e32eefbf899b3059cbb313a48b82fa9c8d931fd58fb69d
+      3      dccc3ce1c00ee4b0b10487d372a0fa47f5c26f57a359be7b27801e144eacbac4
+      3 dcsctp_transport.cc(538)] DcSctpTransport0->OnError(error=WRONG_SEQUENCE, message=Can't reset streams as the socket is not connected).
+      3 dcsctp_transport.cc(538)] DcSctpTransport1->OnError(error=WRONG_SEQUENCE, message=Can't reset streams as the socket is not connected).
+      3 dcsctp_transport.cc(538)] DcSctpTransport28->OnError(error=WRONG_SEQUENCE, message=Can't reset streams as the socket is not connected).
+      3      dd59af56084406e38c63fbe0850f30a0cd1277462a2192590fb05bc259e61273
+      3      dda0121dcf167db1e2622d10f454701837ac6af304a03ec06b3027904988c56b
+      3  deactivate vga console
+      3  Debug lock is disabled
+      3      decf57d609f02ab417fe4da0d96ee4388181a3c6593083ae57c5df05f5f918f3
+      3  decodes=io+mem,owns=mem,locks=none
+      3  default-wifi-powersave-on.conf)
+      3  Deferring console take-over
+      3  deflate
+      3  Detected 0 cards
+      3  Detected 2100.000 MHz processor
+      3  Detected 2112.000 MHz TSC
+      3  Detected architecture x86-64.
+      3  detected capacity change from 0 to 1000
+      3  detected capacity change from 0 to 1034424
+      3  detected capacity change from 0 to 1056784
+      3  detected capacity change from 0 to 1136
+      3  detected capacity change from 0 to 135624
+      3  detected capacity change from 0 to 136728
+      3  detected capacity change from 0 to 151312
+      3  detected capacity change from 0 to 151320
+      3  detected capacity change from 0 to 187776
+      3  detected capacity change from 0 to 24984
+      3  detected capacity change from 0 to 26472
+      3  detected capacity change from 0 to 495608
+      3  detected capacity change from 0 to 496448
+      3  detected capacity change from 0 to 91024
+      3  Detected crf-id 0x1300504, cnv-id 0x80400 wfpm id 0x80000030
+      3  Detected Intel(R) Wi-Fi 6 AX201 160MHz, REV=0x370
+      3  Detected RF HR B3, rfid=0x10a100
+      3  Device (0x5B82)
+      3    Device   empty
+      3  device of type eQUAD nano Lite (0x0a) connected on slot 1
+      3  device of type eQUAD nano Lite (0x0a) connected on slot 2
+      3  Device revision is 2
+      3      df02aab48387a9e1d4c65228089cb6abe196c8f4b396c7e4bbc395de136977f6
+      3      df91ac85a94fcd0cfb8155bd7cbefaac14b8c5ee7397fe2cc85984459e2ea14e
+      3  Disabling thinkpad-acpi brightness events by default...
+      3  Disabling unused clocks
+      3  Disk quotas dquot_6.6.0
+      3    DMA32    [mem 0x0000000001000000-0x00000000ffffffff]
+      3    DMA      [mem 0x0000000000001000-0x0000000000ffffff]
+      3  DMAR 0x000000008CA0A000 000088 (v02 LENOVO TP-R1S   00001200 PTEC 00000002)
+      3  dm-devel@redhat.com
+      3  dns=systemd-resolved rc-manager=unmanaged (auto), plugin=systemd-resolved
+      3   domain hash size = 128
+      3  dpkg, dummy, fedora-langpacks, fedora-pkgdb-collections, repos
+      3  driver loaded but no devices found
+      3  driver supports Access Point (AP) mode
+      3  [drm] Finished loading DMC firmware i915/adlp_dmc.bin (v2.20)
+      3  [drm] Initialized simpledrm 1.0.0 20200625 for simple-framebuffer.0 on minor 0
+      3  [drm] Protected Xe Path (PXP) protected content support initialized
+      3  [drm] Using Transparent Hugepages
+      3  [drm] VT-d active for gfx access
+      3  DSDT 0x000000008E848000 043B23 (v02 LENOVO ICL      00000002      01000013)
+      3 e051b788ecbaeda53046c70e6af6058f95222c046157b8c4c1b9c2cfc65f46e5
+      3      e060da09561ae00dcfb1769d6e8e846868a1e99a54b14aa5d0689f2840cec6df
+      3      e19dae83c02e6f281358d4ebd11d7723b4f5ea0e357907d5443decc5f93c1e9d
+      3      e24b315a551671483d8b9073b32de11b4de1eb2eab211afd2d9c319ff55e08d0
+      3      e261c78511a77e74801f273919b0852bf44a31bc0600d188c535d88be7aba052
+      3      e36dfc719d2114c2e39aea88849e2845ab326f6f7fe74e0e539b7e54d81f3631
+      3      e37ff3fc0eff20bfc1c060a4bf56885e1efd55a8e9ce3c5f4869444cacffad0b
+      3      e39891f48bbcc593b8ed86ce82ce666fc1145b9fcbfd2b07bad0a89bf4c7bfbf
+      3      e42572afac720f5d4a1c7aaaf802f094daceb682f4e92783b2bb3fa00862af7f
+      3      e427068fba7a44c96515c47e9871798284a06397d4c8687dfdafd0738026ddbb
+      3      e6236dc1ee074c077c7a1c9b3965947430847be125f7aeb71d91a128133aea7f
+      3      e6856f137f79992dc94fa2f43297ec32d2d9a76f7be66114c6a13efc3bcdf5c8
+      3      e7681f153121ea1e67f74bbcb0cdc5e502702c1b8cc55fb65d702dfba948b5f4
+      3      e7c20b3ab481ec885501eca5293781d84b5a1ac24f88266b5270e7ecb4aa2538
+      3      e800395dbe0e045781e8005178b4baf5a257f06e159121a67c595f6ae22506fd
+      3      e9d873cbcede3634e0a4b3644b51e1c8a0a048272992c738513ebc96cd3e3360
+      3 ea52 on wlp0s20f3.*.
+      3      eaff8c85c208ba4d5b6b8046f5d6081747d779bada7768e649d047ff9b1f660c
+      3  Early memory node ranges
+      3  Early table checksum verification disabled
+      3  ECAM [mem 0xc0000000-0xcfffffff] (base 0xc0000000) for domain 0000 [bus 00-ff]
+      3      ecb789c173e1fa4e604ff45a57a45b2868d8acb1ce616d8aeef08d5e252ccd6f
+      3  ECDT 0x000000008E88C000 000053 (v01 LENOVO TP-R1S   00001200 PTEC 00000002)
+      3  EC started
+      3      edd2cb55726e10abedec9de8ca5ded289ad793ab3b6919d163c875fec1209cd5
+      3      ee606fa2cd686db7554c99c4bb37d87e64f89153ef26b4cff41834da74eb4c1c
+      3      ee83a566496109a74f6ac6e410df00bb29a290e0021516ae3b8a23288e7e2e72
+      3      eed7e0eff2ed559e2a79ee361f9962af3b1e999131e30bb7fd07546fae0a7267
+      3      ef87be89a413657de8721498552cf9e0f3c1f71bc62dfa63b9f25bbc66e86494
+      3  EFI v2.7 by Lenovo
+      3  EISA bus registered
+      3  Elan sample query result 00, 17, 97
+      3  Embedded 86 pages/cpu s229376 r8192 d114688 u524288
+      3  enabled
+      3  Enabled 10 GPEs in block 00 to 7F
+      3  Enabled IRQ remapping in x2apic mode
+      3  Enabled. Permanently consumes one hw-PMU counter.
+      3  Enabled xstate features 0xa07, context size is 856 bytes, using 'compacted' format.
+      3  Enabling conditional Indirect Branch Prediction Barrier
+      3  enabling device (0001 -> 0003)
+      3  enabling device (0006 -> 0007)
+      3  enabling Extended Tags
+      3  Enhanced / Automatic IBRS
+      3  enumerating devices
+      3 /etc/xdg
+      3  event logging is off
+      3  event unblocked
+      3  Extension ding@rastersoft.com already installed in /usr/share/gnome-shell/extensions/ding@rastersoft.com. /usr/share/gnome-shell/extensions/ding@rastersoft.com will not be loaded
+      3  Extension ubuntu-appindicators@ubuntu.com already installed in /usr/share/gnome-shell/extensions/ubuntu-appindicators@ubuntu.com. /usr/share/gnome-shell/extensions/ubuntu-appindicators@ubuntu.com will not be loaded
+      3  Extension ubuntu-dock@ubuntu.com already installed in /usr/share/gnome-shell/extensions/ubuntu-dock@ubuntu.com. /usr/share/gnome-shell/extensions/ubuntu-dock@ubuntu.com will not be loaded
+      3      f1863ec8b7f43f94ad14fb0b8b4a69497a8c65ecbc2a55e0bb420e772b8cdc91
+      3      f1b4f6513b0d544a688d13adc291efa8c59f420ca5dcb23e0b5a06fa7e0d083d
+      3      f277af4f9bdc918ae89fa35cc1b34e34984c04ae9765322c3cb049574d36509c
+      3      f2a16d35b554694187a70d40ca682959f4f35c2ce0eab8fd64f7ac2ab9f5c24a
+      3      f31fd461c5e99510403fc97c1da2d8a9cbe270597d32badf8fd66b77495f8d94
+      3      f41da7deb9a214e653f738bbf4dc9168c606e71e8095e7d50215b0dcc2cf71a3
+      3      f48e6dd8718e953b60a24f2cbea60a9521deae67db25425b7d3ace3c517dd9b7
+      3 f52f83a3fa9cfbd6920f722824dbe4034534d25b8507246b3b957dac6e1bce7a
+      3      f5a5415aca106c63aa6595d58861f8d7e87143ba9c742e2e2819e3411d685496
+      3      f5e892dd6ec4c2defa4a495c09219b621379b64da3d1b2e34adf4b5f1102bd39
+      3      fa0d9315715290276f4558dac2368bd828789f42214f5707a932e5c518e59f80
+      3      fabc379df395e6f52472b44fa5082f9f0e0da480f05198c66814b7055b03f446
+      3  FACP 0x000000008E890000 000114 (v06 LENOVO TP-R1S   00001200 PTEC 00000002)
+      3  FACS 0x0000000092673000 000040
+      3  Failed to connect to missing device /org/freedesktop/ColorManager/devices/xrandr_Chimei_Innolux_Corporation_gdm_128
+      3  Failed to do gtk init. Waiting for a new session with desktop capabilities.
+      3  Failed to load the 'mdraid' libblockdev plugin
+      3  Failure creating named object [\_SB.WMI6], AE_ALREADY_EXISTS (20230628/dswload2-326)
+      3  Faking a node at [mem 0x0000000000000000-0x000000045f7fffff]
+      3      ff6acfbd5962499fb8846daf87b88320c115d7711ea645ba6742e8598e884bd8
+      3  FFFFFF-0FF
+      3  Filling RSB on context switch
+      3  Finished Apply Kernel Variables.
+      3  Finished Cleanup of Temporary Directories.
+      3  Finished Coldplug All udev Devices.
+      3  Finished Create List of Static Device Nodes.
+      3  Finished Create Static Device Nodes in /dev.
+      3  Finished Create System Users.
+      3  Finished Create Volatile Files and Directories.
+      3  Finished Daily apt download activities.
+      3  Finished Detect the available GPUs and deal with any system changes.
+      3  Finished Download data for packages that failed at package install time.
+      3  Finished File System Check on /dev/disk/by-uuid/572C-9BF7.
+      3  Finished Flush Journal to Persistent Storage.
+      3  Finished GRUB failed boot detection.
+      3  Finished Hold until boot process finishes up.
+      3  Finished Load AppArmor profiles.
+      3  Finished Load AppArmor profiles managed internally by snapd.
+      3  Finished Load Kernel Module configfs.
+      3  Finished Load Kernel Module drm.
+      3  Finished Load Kernel Module fuse.
+      3  Finished Load Kernel Modules.
+      3  Finished Load/Save Random Seed.
+      3  Finished Network Manager Wait Online.
+      3  Finished OpenVPN service.
+      3  Finished Permit User Sessions.
+      3  Finished Record Runlevel Change in UTMP.
+      3  Finished Record successful boot for GRUB.
+      3  Finished Record System Boot/Shutdown in UTMP.
+      3  Finished Remount Root and Kernel File Systems.
+      3  Finished Remove Stale Online ext4 Metadata Check Snapshots.
+      3  Finished Rewrite dynamic launcher portal entries.
+      3  Finished Save/Restore Sound Card State.
+      3  Finished Secure Boot updates for DB and DBX.
+      3  Finished Session Migration.
+      3  Finished Set console font and keymap.
+      3  Finished Set console scheme.
+      3  Finished Set the console keyboard layout.
+      3  Finished Set Up Additional Binary Formats.
+      3  Finished Signal initialization done to GNOME Session Manager.
+      3  Finished Start gnome-keyring as SSH agent.
+      3  Finished Start gnome-keyring for the Secrets Service, and PKCS #11.
+      3  Finished Tell Plymouth To Write Out Runtime Data.
+      3  Finished Uncomplicated firewall.
+      3  Finished User Runtime Directory /run/user/1000.
+      3  Finished User Runtime Directory /run/user/128.
+      3  Finished Wait until snapd is fully seeded.
+      3  Firmware timestamp 2022.51 buildtype 1 build 56683
+      3 //forum.snapcraft.io/t/11209 for details.
+      3  found 9 devices
+      3  Found device Micron MTFDKCD512TFK EFI\x20System\x20Partition.
+      3  Found RAPL domain core
+      3  Found RAPL domain uncore
+      3  Found user 'avahi' (UID 114) and group 'avahi' (GID 121).
+      3  FPDT 0x000000008C9DA000 000034 (v01 LENOVO TP-R1S   00001200 PTEC 00001200)
+      3  fsck.fat 4.2 (2021-01-31)
+      3  fwupd, os-release, packagekit-refine-repos, packagekit-refresh, appstream, hardcoded-blocklist, hardcoded-popular, modalias, packagekit, rewrite-resource, provenance, snap, systemd-updates, generic-updates, provenance-license, icons
+      3  global 'generation' set to '4'
+      3  GMMS), currently in laptop mode
+      3 GNOME
+      3  gnome-keyring-daemon started properly and unlocked keyring
+      3  GNOME session X11 services is inactive.
+      3  goa-daemon version 3.44.0 starting
+      3  GPE=0x6e
+      3  gtk=Yaru-magenta-dark icon=Yaru-magenta cursor=Yaru, sound=Yaru
+      3  GuC firmware i915/adlp_guc_70.bin version 70.20.0
+      3  Hash tables configured (established 131072 bind 65536)
+      3  hcc params 0x20007fc1 hci version 0x120 quirks 0x0000000200009810
+      3  hcc params 0x20007fc1 hci version 0x120 quirks 0x0000100200009810
+      3  HCI device and connection manager initialized
+      3  HCI socket layer initialized
+      3  hda codecs found, mask 5
+      3  HID++ 2.0 device connected.
+      3  HID++ 4.5 device connected.
+      3  Hierarchical SRCU implementation.
+      3      HOME=/
+      3  home.arpa 10.in-addr.arpa 16.172.in-addr.arpa 17.172.in-addr.arpa 18.172.in-addr.arpa 19.172.in-addr.arpa 20.172.in-addr.arpa 21.172.in-addr.arpa 22.172.in-addr.arpa 23.172.in-addr.arpa 24.172.in-addr.arpa 25.172.in-addr.arpa 26.172.in-addr.arpa 27.172.in-addr.arpa 28.172.in-addr.arpa 29.172.in-addr.arpa 30.172.in-addr.arpa 31.172.in-addr.arpa 168.192.in-addr.arpa d.f.ip6.arpa corp home internal intranet lan local private test
+      3 /home/mao/.config/QQ/versions/config.json
+      3  Host address width 39
+      3  Hostname set to <mao-ThinkPad>.
+      3  Host supports USB 3.1 Enhanced SuperSpeed
+      3  Host supports USB 3.2 Enhanced SuperSpeed
+      3  HPET 0x000000008E88F000 000038 (v01 LENOVO TP-R1S   00001200 PTEC 00000002)
+      3  HPET dysfunctional in PC10. Force disabled.
+      3  HPET id 0 under DRHD base 0xfed91000
+      3     hp_outs=1 (0x21/0x0/0x0/0x0/0x0)
+      3  HuC firmware i915/tgl_huc.bin version 7.9.3
+      3  HWalign=64, Order=0-3, MinObjects=0, CPUs=16, Nodes=1
+      3  HWP enabled
+      3  hw unit of domain package 2^-14 Joules
+      3  hw unit of domain pp0-core 2^-14 Joules
+      3  hw unit of domain pp1-gpu 2^-14 Joules
+      3    Hygon HygonGenuine
+      3  i2c /dev entries driver
+      3  i8042 AUX port at 0x60,0x64 irq 12
+      3  i8042 KBD port at 0x60,0x64 irq 1
+      3  i915drmfb (fb0) is primary device
+      3  i915drmfb frame buffer device
+      3 //ibm-acpi.sf.net/
+      3  ifupdown ("/usr/lib/x86_64-linux-gnu/NetworkManager/1.36.6/libnm-settings-plugin-ifupdown.so")
+      3  Ignoring E820 reservations for host bridge windows
+      3  Incomplete global flushes, disabling PCID
+      3  . IN DS 20326 8 2 e06d44b80b8f1d39a95c0b0d7c65d08458e880409bbc683457104237c7f8ec8d
+      3  <info>  ModemManager (version 1.20.0) starting in system bus...
+      3      /init
+      3  init (API version 7.39)
+      3  Initialise system trusted keyrings
+      3   initialized
+      3  initialized
+      3  initialized pinctrl subsystem
+      3  Initializing
+      3  initializing lsm=lockdown,capability,landlock,yama,apparmor,integrity
+      3  initializing netlink subsys (disabled)
+      3  Initializing network drop monitor service
+      3  initializing polkit
+      3  initializing store
+      3  initializing udev
+      3  Initmem setup node 0 [mem 0x0000000000001000-0x000000045f7fffff]
+      3  Inserted module 'autofs4'
+      3  Inserted module 'lp'
+      3  Inserted module 'msr'
+      3  Inserted module 'parport_pc'
+      3  Inserted module 'ppdev'
+      3  In-situ OAM (IOAM) with IPv6
+      3  Integrated Camera
+      3    Intel GenuineIntel
+      3  intel/ibt-0040-4150.ddc
+      3  intel/ibt-0040-4150.sfi
+      3  Intel P-state driver initializing
+      3  Intel(R) PRO/1000 Network Connection
+      3  Intel(R) PRO/1000 Network Driver
+      3  Intel(R) Virtualization Technology for Directed I/O
+      3  Intel(R) Wireless WiFi driver for Linux
+      3      intel/sof/sof-adl.ri
+      3      intel/sof-tplg/sof-hda-generic-2ch.tplg
+      3  interfaces file /etc/network/interfaces doesn't exist
+      3  internal-starting -> disconnected
+      3  Interpreter enabled
+      3  interrupt blocked
+      3  Interrupt Throttling Rate (ints/sec) set to dynamic conservative mode
+      3  interrupt unblocked
+      3  INT_SRC_OVR (bus 0 bus_irq 0 global_irq 2 dfl dfl)
+      3  INT_SRC_OVR (bus 0 bus_irq 9 global_irq 9 high level)
+      3  invalid env data
+      3  Invalid WM_TRANSIENT_FOR window 0x0 specified for 0x4c00191.
+      3  [io  0x0680-0x069f] has been reserved
+      3  [io  0x0800-0x087f] has been reserved
+      3  [io  0x0880-0x08ff] has been reserved
+      3  [io  0x0900-0x097f] has been reserved
+      3  [io  0x0980-0x09ff] has been reserved
+      3  [io  0x0a00-0x0a7f] has been reserved
+      3  [io  0x0a80-0x0aff] has been reserved
+      3  [io  0x0b00-0x0b7f] has been reserved
+      3  [io  0x0b80-0x0bff] has been reserved
+      3  [io  0x164e-0x164f] has been reserved
+      3  [io  0x1800-0x189f] could not be reserved
+      3  [io  0x1854-0x1857] has been reserved
+      3  [io  0xff00-0xfffe] has been reserved
+      3  IOAPIC id 2 under DRHD base  0xfed91000 IOMMU 1
+      3  IOMMU feature dev_iotlb_support inconsistent
+      3  IOMMU feature dit inconsistent
+      3  IOMMU feature fl1gp_support inconsistent
+      3  IOMMU feature nwfs inconsistent
+      3  IOMMU feature pgsel_inv inconsistent
+      3  IOMMU feature sc_support inconsistent
+      3  io scheduler mq-deadline registered
+      3  Is a desktop session! Forcing a reload.
+      3  Joining mDNS multicast group on interface lo.IPv4 with address 127.0.0.1.
+      3  Joining mDNS multicast group on interface wlp0s20f3.IPv4 with address 192.168.1.17.
+      3  Journal started
+      3  keyfile (internal)
+      3  Key type asymmetric registered
+      3  Key type blacklist registered
+      3  Key type dns_resolver registered
+      3  Key type encrypted registered
+      3  Key type fscrypt-provisioning registered
+      3  Key type .fscrypt registered
+      3  Key type trusted registered
+      3  kprobe jump-optimization is enabled. All kprobes are optimized if possible.
+      3  L2CAP socket layer initialized
+      3  LAPIC_NMI (acpi_id[0x00] high edge lint[0x1])
+      3  LAPIC_NMI (acpi_id[0x01] high edge lint[0x1])
+      3  LAPIC_NMI (acpi_id[0x02] high edge lint[0x1])
+      3  LAPIC_NMI (acpi_id[0x03] high edge lint[0x1])
+      3  LAPIC_NMI (acpi_id[0x04] high edge lint[0x1])
+      3  LAPIC_NMI (acpi_id[0x05] high edge lint[0x1])
+      3  LAPIC_NMI (acpi_id[0x06] high edge lint[0x1])
+      3  LAPIC_NMI (acpi_id[0x07] high edge lint[0x1])
+      3  LAPIC_NMI (acpi_id[0x08] high edge lint[0x1])
+      3  LAPIC_NMI (acpi_id[0x09] high edge lint[0x1])
+      3  LAPIC_NMI (acpi_id[0x0a] high edge lint[0x1])
+      3  LAPIC_NMI (acpi_id[0x0b] high edge lint[0x1])
+      3  LAPIC_NMI (acpi_id[0x0c] high edge lint[0x1])
+      3  LAPIC_NMI (acpi_id[0x0d] high edge lint[0x1])
+      3  LAPIC_NMI (acpi_id[0x0e] high edge lint[0x1])
+      3  LAPIC_NMI (acpi_id[0x0f] high edge lint[0x1])
+      3  LAPIC_NMI (acpi_id[0x10] high edge lint[0x1])
+      3  LAPIC_NMI (acpi_id[0x11] high edge lint[0x1])
+      3  LAPIC_NMI (acpi_id[0x12] high edge lint[0x1])
+      3  LAPIC_NMI (acpi_id[0x13] high edge lint[0x1])
+      3  LAPIC_NMI (acpi_id[0x14] high edge lint[0x1])
+      3  LAPIC_NMI (acpi_id[0x15] high edge lint[0x1])
+      3  LAPIC_NMI (acpi_id[0x16] high edge lint[0x1])
+      3  LAPIC_NMI (acpi_id[0x17] high edge lint[0x1])
+      3  last_pfn = 0x45f800 max_arch_pfn = 0x400000000
+      3  last_pfn = 0x92800 max_arch_pfn = 0x400000000
+      3  lazy mode
+      3  legacy console [tty0] enabled
+      3  LENOVO 21E30076CD/21E30076CD, BIOS R1SET49W(1.20) 04/13/2023
+      3  Lenovo ThinkPad E14 Gen 4, model 21E30076CD
+      3  libata version 3.00 loaded.
+      3  Lid Switch [LID]
+      3  link connected
+      3  Linux agpgart interface v0.103
+      3  LinuxPPS API ver. 1 registered
+      3  Listening on ACPID Listen Socket.
+      3  Listening on Avahi mDNS/DNS-SD Stack Activation Socket.
+      3  Listening on D-Bus System Message Bus Socket.
+      3  Listening on fsck to fsckd communication Socket.
+      3  Listening on initctl Compatibility Named Pipe.
+      3  Listening on Journal Audit Socket.
+      3  Listening on Journal Socket.
+      3  Listening on Journal Socket (/dev/log).
+      3  Listening on Load/Save RF Kill Switch Status /dev/rfkill Watch.
+      3  Listening on Socket activation for snappy daemon.
+      3  Listening on Syslog Socket.
+      3  Listening on udev Control Socket.
+      3  Listening on udev Kernel Socket.
+      3  Listening on UUID daemon activation socket.
+      3  loaded firmware version 86.fb5c9aeb.0 so-a0-hr-b0-86.ucode op_mode iwlmvm
+      3  Loading compiled-in module X.509 certificates
+      3  Loading compiled-in revocation X.509 certificates
+      3  Loading compiled-in X.509 certificates
+      3  Loading compiled-in X.509 certificates for regulatory database
+      3  loading devices
+      3  loading domains
+      3  loading user config
+      3  Logitech
+      3  Loop exited. Forcing reload.
+      3  Low-power S0 idle used by default for system suspend
+      3  LPIT 0x000000008E830000 0000CC (v01 LENOVO TP-R1S   00001200 PTEC 00000002)
+      3  Machine keyring initialized
+      3  management component transport protocol core
+      3  mapped [mem 0x0000000082edb000-0x0000000086edb000] (64MB)
+      3  max_cpu_qlen set to 1000
+      3          Max phase no-delay instances is 400.
+      3  MCFG 0x000000008E88D000 00003C (v01 LENOVO TP-R1S   00001200 PTEC 00000002)
+      3  [mem 0x0000000000000000-0x000000000009efff] usable
+      3  [mem 0x0000000000001000-0x000000000009efff]
+      3  [mem 0x000000000009f000-0x00000000000fffff] reserved
+      3  [mem 0x0000000000100000-0x000000008c3f3fff]
+      3  [mem 0x0000000000100000-0x000000008c3f3fff] usable
+      3  [mem 0x00000000-0x00000fff]
+      3  [mem 0x000000008c3f4000-0x0000000091b2efff] reserved
+      3  [mem 0x0000000091b2f000-0x000000009272efff] ACPI NVS
+      3  [mem 0x000000009272f000-0x00000000927fefff] ACPI data
+      3  [mem 0x00000000927ff000-0x00000000927fffff]
+      3  [mem 0x00000000927ff000-0x00000000927fffff] usable
+      3  [mem 0x0000000092800000-0x0000000096ffffff] reserved
+      3  [mem 0x0000000097a00000-0x0000000097bfffff] reserved
+      3  [mem 0x0000000098400000-0x00000000a07fffff] reserved
+      3  [mem 0x00000000c0000000-0x00000000cfffffff] reserved
+      3  [mem 0x00000000fed20000-0x00000000fed7ffff] reserved
+      3  [mem 0x0000000100000000-0x000000045f7fffff]
+      3  [mem 0x0000000100000000-0x000000045f7fffff] usable
+      3  [mem 0x0009f000-0x000fffff]
+      3  [mem 0x594ea000-0x5db29fff]
+      3  [mem 0x86edb000-0x86f6bfff]
+      3  [mem 0x88603000-0x88603fff]
+      3  [mem 0x8c3f4000-0x91b2efff]
+      3  [mem 0x91b2f000-0x9272efff]
+      3  [mem 0x9272f000-0x927fefff]
+      3  [mem 0x92800000-0x96ffffff]
+      3  [mem 0x97000000-0x979fffff]
+      3  [mem 0x97a00000-0x97bfffff]
+      3  [mem 0x97c00000-0x983fffff]
+      3  [mem 0x98400000-0xa07fffff]
+      3  [mem 0xa0800000-0xfed1ffff]
+      3  [mem 0xa0800000-0xfed1ffff] available for PCI devices
+      3  [mem 0xfeb00000-0xfebfffff] has been reserved
+      3  [mem 0xfec00000-0xfed3ffff] could not be reserved
+      3  [mem 0xfed10000-0xfed13fff] has been reserved
+      3  [mem 0xfed18000-0xfed18fff] has been reserved
+      3  [mem 0xfed19000-0xfed19fff] has been reserved
+      3  [mem 0xfed20000-0xfed3ffff] has been reserved
+      3  [mem 0xfed20000-0xfed7ffff]
+      3  [mem 0xfed20000-0xfed7ffff] could not be reserved
+      3  [mem 0xfed45000-0xfed8ffff] could not be reserved
+      3  [mem 0xfed4c000-0xffffffff] could not be reserved
+      3  [mem 0xfed80000-0xffffffff]
+      3  [mem 0xfeda0000-0xfeda0fff] has been reserved
+      3  [mem 0xfeda1000-0xfeda1fff] has been reserved
+      3  [mem 0xfedc0000-0xfedc7fff] has been reserved
+      3  [mem 0xfee00000-0xfeefffff] has been reserved
+      3  Mfr=0, Product=0, SerialNumber=0
+      3  Mfr=1, Product=2, SerialNumber=0
+      3  Mfr=3, Product=1, SerialNumber=2
+      3  MGMT ver 1.22
+      3       Mic=0x19
+      3  Minimum firmware build 1 week 10 2014
+      3  MMIO range=[0xc0000000-0xcfffffff] (256MB) from e820 map
+      3  ModemManager available
+      3  module loaded
+      3  monitoring kernel firmware directory '/lib/firmware'.
+      3  mono_out=0x0
+      3 MOU] at 0x60,0x64 irq 1,12
+      3  Mounted Arbitrary Executable File Formats File System.
+      3  Mounted /boot/efi.
+      3  Mounted FUSE Control File System.
+      3  Mounted Huge Pages File System.
+      3  Mounted Kernel Configuration File System.
+      3  Mounted Kernel Debug File System.
+      3  Mounted Kernel Trace File System.
+      3  Mounted Mount unit for bare, revision 5.
+      3  Mounted Mount unit for core22, revision 1802.
+      3  Mounted Mount unit for core22, revision 1908.
+      3  Mounted Mount unit for core24, revision 739.
+      3  Mounted Mount unit for core24, revision 888.
+      3  Mounted Mount unit for firefox, revision 5987.
+      3  Mounted Mount unit for firefox, revision 6042.
+      3  Mounted Mount unit for gnome-42-2204, revision 176.
+      3  Mounted Mount unit for gnome-42-2204, revision 202.
+      3  Mounted Mount unit for gtk-common-themes, revision 1535.
+      3  Mounted Mount unit for snapd-desktop-integration, revision 178.
+      3  Mounted Mount unit for snapd-desktop-integration, revision 253.
+      3  Mounted Mount unit for snapd, revision 23771.
+      3  Mounted Mount unit for snap-store, revision 1113.
+      3  Mounted Mount unit for snap-store, revision 1216.
+      3  Mounted POSIX Message Queue File System.
+      3  Mounting Arbitrary Executable File Formats File System...
+      3  Mounting /boot/efi...
+      3  Mounting FUSE Control File System...
+      3  Mounting Huge Pages File System...
+      3  Mounting Kernel Configuration File System...
+      3  Mounting Kernel Debug File System...
+      3  Mounting Kernel Trace File System...
+      3  Mounting Mount unit for bare, revision 5...
+      3  Mounting Mount unit for core22, revision 1802...
+      3  Mounting Mount unit for core22, revision 1908...
+      3  Mounting Mount unit for core24, revision 739...
+      3  Mounting Mount unit for core24, revision 888...
+      3  Mounting Mount unit for firefox, revision 5987...
+      3  Mounting Mount unit for firefox, revision 6042...
+      3  Mounting Mount unit for gnome-42-2204, revision 176...
+      3  Mounting Mount unit for gnome-42-2204, revision 202...
+      3  Mounting Mount unit for gtk-common-themes, revision 1535...
+      3  Mounting Mount unit for snapd-desktop-integration, revision 178...
+      3  Mounting Mount unit for snapd-desktop-integration, revision 253...
+      3  Mounting Mount unit for snapd, revision 23771...
+      3  Mounting Mount unit for snap-store, revision 1113...
+      3  Mounting Mount unit for snap-store, revision 1216...
+      3  Mounting POSIX Message Queue File System...
+      3  Movable zone start for each node
+      3  MSDM 0x000000008E827000 000055 (v03 LENOVO TP-R1S   00001200 PTEC 00000002)
+      3  Networking is enabled by state file
+      3  Network interface enumeration completed.
+      3  NetworkManager state is now CONNECTED_GLOBAL
+      3  NetworkManager state is now CONNECTED_LOCAL
+      3  NetworkManager state is now CONNECTED_SITE
+      3  NetworkManager state is now CONNECTING
+      3  new 802.11 Wi-Fi device (/org/freedesktop/NetworkManager/Devices/3)
+      3  new 802.11 Wi-Fi P2P device (/org/freedesktop/NetworkManager/Devices/4)
+      3  new Ethernet device (/org/freedesktop/NetworkManager/Devices/2)
+      3  new full-speed USB device number 2 using xhci_hcd
+      3  new full-speed USB device number 4 using xhci_hcd
+      3  new Generic device (/org/freedesktop/NetworkManager/Devices/1)
+      3  new high-speed USB device number 3 using xhci_hcd
+      3  New relevant interface lo.IPv4 for mDNS.
+      3  New relevant interface lo.IPv6 for mDNS.
+      3  New relevant interface wlp0s20f3.IPv4 for mDNS.
+      3  New relevant interface wlp0s20f3.IPv6 for mDNS.
+      3  New seat seat0.
+      3  New session 2 of user mao.
+      3  New session c1 of user gdm.
+      3  new USB bus registered, assigned bus number 1
+      3  new USB bus registered, assigned bus number 2
+      3  new USB bus registered, assigned bus number 3
+      3  new USB bus registered, assigned bus number 4
+      3  New USB device found, idVendor=046d, idProduct=c534, bcdDevice=52.00
+      3  New USB device found, idVendor=04f2, idProduct=b758, bcdDevice=30.18
+      3  New USB device found, idVendor=8087, idProduct=0026, bcdDevice= 0.02
+      3  NHLT 0x000000008E828000 00189E (v00 LENOVO TP-R1S   00001200 PTEC 00000002)
+      3  NMAtmManager (/usr/lib/x86_64-linux-gnu/NetworkManager/1.36.6/libnm-device-plugin-adsl.so)
+      3  NMBluezManager (/usr/lib/x86_64-linux-gnu/NetworkManager/1.36.6/libnm-device-plugin-bluetooth.so)
+      3  NMTeamFactory (/usr/lib/x86_64-linux-gnu/NetworkManager/1.36.6/libnm-device-plugin-team.so)
+      3  NMWifiFactory (/usr/lib/x86_64-linux-gnu/NetworkManager/1.36.6/libnm-device-plugin-wifi.so)
+      3  NMWwanFactory (/usr/lib/x86_64-linux-gnu/NetworkManager/1.36.6/libnm-device-plugin-wwan.so)
+      3  no)
+      3  no address or irqs in _CRS
+      3  No architecture policies found
+      3  No ATSR found
+      3  NODE_DATA(0) allocated [mem 0x45f7d5000-0x45f7fffff]
+      3 ./node_modules/.bin
+      3  No NUMA configuration found
+      3  Non-volatile memory driver v1.3
+      3  no PCM in topology for HDMI converter 3
+      3  Normal
+      3    Normal   [mem 0x0000000100000000-0x000000045f7fffff]
+      3  No SATC found
+      3  No service file found in /etc/avahi/services.
+      3  No such file or directory (2)
+      3  No temp sysfs for reading raw temp
+      3  No valid path found for iw
+      3 off
+      3  Only 0 apps for recent list, hiding
+      3  (**) Option "fd" "28"
+      3  (**) Option "fd" "31"
+      3 /opt/QQ/resources/app/package.json
+      3  _OSC evaluated successfully for all CPUs
+      3  OS controls USB3+ DisplayPort+ PCIe+ XDomain+
+      3  OS now controls [PCIeHotplug SHPCHotplug PME PCIeCapability LTR DPC]
+      3  OS supports [ExtendedConfig ASPM ClockPM Segments MSI EDR HPX-Type3]
+      3  OS supports USB3+ DisplayPort+ PCIe+ XDomain+
+      3  OTP lock is enabled
+      3  Overriding RP PIO Log Size to 4
+      3 owns=mem
+      3  p1 p2
+      3  Parent card not yet available, widget card binding deferred
+      3  passed, no W+X pages found.
+      3  pci_cache_line_size set to 64 bytes
+      3  PCI dev 51f0/0074, rev=0x370, rfid=0x10a100
+      3  PCI Root Bridge [PC00] (domain 0000 [bus 00-fe])
+      3  PEBS-via-PT 
+      3  permission denied
+      3  PHAT 0x000000008C9DB000 000498 (v01 LENOVO TP-R1S   00001200 PTEC 00000002)
+      3  PL4 support detected.
+      3  platform does not support [AER]
+      3  Platform Keyring initialized
+      3  PME# supported from D3hot
+      3  PnP ACPI init
+      3  port 22.
+      3  Power Button [PWRB]
+      3  PPP generic driver version 2.4.2
+      3  preallocated 2048 KiB GFP_KERNEL|GFP_DMA32 pool for atomic allocations
+      3  preallocated 2048 KiB GFP_KERNEL|GFP_DMA pool for atomic allocations
+      3  preallocated 2048 KiB GFP_KERNEL pool for atomic allocations
+      3  Preemptible hierarchical RCU implementation.
+      3  Probing EISA bus 0
+      3  Process '/usr/bin/unshare -m /usr/bin/snap auto-import --mount=/dev/nvme0n1' failed with exit code 1.
+      3  Process '/usr/bin/unshare -m /usr/bin/snap auto-import --mount=/dev/nvme0n1p1' failed with exit code 1.
+      3  Process '/usr/bin/unshare -m /usr/bin/snap auto-import --mount=/dev/nvme0n1p2' failed with exit code 1.
+      3  Programmable TCC Offset detected
+      3  'Protection Keys User registers'
+      3  protocol multicast
+      3   protocols = UNLABELED CIPSOv4 CALIPSO
+      3  PS/2 mouse device common for all mice
+      3  PTP clock support registered
+      3  Queued invalidation will be enabled to support x2apic and Intr-remapping.
+      3  Queued start job for default target Graphical Interface.
+      3  radio is blocked
+      3  radio switch found; radios are enabled
+      3  raw HID events driver (C) Jiri Kosina
+      3  RC enabled
+      3  RCU calculated value of scheduler-enlistment delay is 100 jiffies.
+      3          RCU restricting CPUs from NR_CPUS=8192 to nr_cpu_ids=16.
+      3  Reached target Bluetooth Support.
+      3  Reached target Current graphical user session.
+      3  Reached target GNOME accessibility target.
+      3  Reached target GNOME color management target.
+      3  Reached target GNOME date & time target.
+      3  Reached target GNOME file sharing target.
+      3  Reached target GNOME FreeDesktop screensaver target.
+      3  Reached target GNOME keyboard configuration target.
+      3  Reached target GNOME keyboard shortcuts target.
+      3  Reached target GNOME maintenance of expirable data target.
+      3  Reached target GNOME power management target.
+      3  Reached target GNOME printer notifications target.
+      3  Reached target GNOME RFKill support target.
+      3  Reached target GNOME Session.
+      3  Reached target GNOME Session is initialized.
+      3  Reached target GNOME Session Manager is ready.
+      3  Reached target GNOME session X11 services.
+      3  Reached target GNOME Shell.
+      3  Reached target GNOME smartcard target.
+      3  Reached target GNOME sound sample caching target.
+      3  Reached target GNOME Wacom tablet support target.
+      3  Reached target GNOME X11 Session.
+      3  Reached target GNOME XSettings target.
+      3  Reached target Graphical Interface.
+      3  Reached target Host and Network Name Lookups.
+      3  Reached target Local Encrypted Volumes.
+      3  Reached target Local File Systems.
+      3  Reached target Local Verity Protected Volumes.
+      3  Reached target Login Prompts.
+      3  Reached target Mounted snaps.
+      3  Reached target Mounting snaps.
+      3  Reached target Multi-User System.
+      3  Reached target Network.
+      3  Reached target Network is Online.
+      3  Reached target Path Units.
+      3  Reached target Preparation for Local File Systems.
+      3  Reached target Preparation for Logins.
+      3  Reached target Preparation for Network.
+      3  Reached target Remote File Systems.
+      3  Reached target Session services which should run early before the graphical session is brought up.
+      3  Reached target Slice Units.
+      3  Reached target Socket Units.
+      3  Reached target Swaps.
+      3  Reached target System Initialization.
+      3  Reached target System Time Set.
+      3  Reached target Tasks to be run before GNOME Session starts.
+      3  Reached target Timer Units.
+      3  Reached target User and Group Name Lookups.
+      3  registered 1.00 GiB page size, pre-allocated 0 pages
+      3  registered 2.00 MiB page size, pre-allocated 0 pages
+      3  registered as rtc0
+      3  Registered efi_pstore as persistent store backend
+      3  Registered efivars operations
+      3  registered new device driver usb
+      3  registered new interface driver btusb
+      3  registered new interface driver hub
+      3  registered new interface driver usbfs
+      3  registered new interface driver usbhid
+      3  registered new interface driver uvcvideo
+      3  Registered PF_ALG protocol family
+      3  Registered PF_BLUETOOTH protocol family
+      3  Registered PF_INET6 protocol family
+      3  Registered PF_INET protocol family
+      3  Registered PF_MCTP protocol family
+      3  Registered PF_NETLINK/PF_ROUTE protocol family
+      3  Registered PF_PACKET protocol family
+      3  Registered PF_UNIX/PF_LOCAL protocol family
+      3  Registered PF_XDP protocol family
+      3  registered PHC clock
+      3  registered platform RTC device (no PNP device found)
+      3  registered taskstats version 1
+      3  Registered thermal governor 'bang_bang'
+      3  Registered thermal governor 'fair_share'
+      3  Registered thermal governor 'power_allocator'
+      3  Registered thermal governor 'step_wise'
+      3  Registered thermal governor 'user_space'
+      3  registered to indicate activity on CPUs
+      3  Registering ACPI NVS region [mem 0x91b2f000-0x9272efff] (12582912 bytes)
+      3  Registering new address record for 127.0.0.1 on lo.IPv4.
+      3  Registering new address record for 192.168.1.17 on wlp0s20f3.IPv4.
+      3  registerService fail
+      3  Released state lock file
+      3  Reloading AppArmor profiles
+      3  Removed session c1.
+      3  Removed slice User Slice of UID 128.
+      3  remove [mem 0x000a0000-0x000fffff] usable
+      3  remove [mem 0xc0000000-0xcfffffff] reserved
+      3  renamed from eth0
+      3  renamed from wlan0
+      3  reserve RAM buffer [mem 0x0009f000-0x0009ffff]
+      3  reserve RAM buffer [mem 0x45f800000-0x45fffffff]
+      3  reserve RAM buffer [mem 0x86edb000-0x87ffffff]
+      3  reserve RAM buffer [mem 0x88603000-0x8bffffff]
+      3  reserve RAM buffer [mem 0x8c3f4000-0x8fffffff]
+      3  reserve RAM buffer [mem 0x92800000-0x93ffffff]
+      3  Reserving APIC table memory at [mem 0x8e88e000-0x8e88e1db]
+      3  Reserving BATB table memory at [mem 0x8e810000-0x8e810049]
+      3  Reserving BGRT table memory at [mem 0x8c9dc000-0x8c9dc037]
+      3  Reserving DBG2 table memory at [mem 0x8e82a000-0x8e82a053]
+      3  Reserving DBGP table memory at [mem 0x8e82b000-0x8e82b033]
+      3  Reserving DMAR table memory at [mem 0x8ca0a000-0x8ca0a087]
+      3  Reserving DSDT table memory at [mem 0x8e848000-0x8e88bb22]
+      3  Reserving ECDT table memory at [mem 0x8e88c000-0x8e88c052]
+      3  Reserving ESRT space from 0x0000000088603998 to 0x0000000088603a98.
+      3  Reserving FACP table memory at [mem 0x8e890000-0x8e890113]
+      3  Reserving FACS table memory at [mem 0x92673000-0x9267303f]
+      3  Reserving FPDT table memory at [mem 0x8c9da000-0x8c9da033]
+      3  Reserving HPET table memory at [mem 0x8e88f000-0x8e88f037]
+      3  Reserving Intel graphics memory at [mem 0x9c800000-0xa07fffff]
+      3  Reserving LPIT table memory at [mem 0x8e830000-0x8e8300cb]
+      3  Reserving MCFG table memory at [mem 0x8e88d000-0x8e88d03b]
+      3  Reserving MSDM table memory at [mem 0x8e827000-0x8e827054]
+      3  Reserving NHLT table memory at [mem 0x8e828000-0x8e82989d]
+      3  Reserving PHAT table memory at [mem 0x8c9db000-0x8c9db497]
+      3  Reserving SSDT table memory at [mem 0x8ca03000-0x8ca03143]
+      3  Reserving SSDT table memory at [mem 0x8ca04000-0x8ca079d9]
+      3  Reserving SSDT table memory at [mem 0x8ca08000-0x8ca09299]
+      3  Reserving SSDT table memory at [mem 0x8e811000-0x8e811fda]
+      3  Reserving SSDT table memory at [mem 0x8e82c000-0x8e82e356]
+      3  Reserving SSDT table memory at [mem 0x8e831000-0x8e839973]
+      3  Reserving SSDT table memory at [mem 0x8e83a000-0x8e83d5cd]
+      3  Reserving SSDT table memory at [mem 0x8e83e000-0x8e840f4b]
+      3  Reserving SSDT table memory at [mem 0x8e842000-0x8e842b5d]
+      3  Reserving SSDT table memory at [mem 0x8e843000-0x8e843119]
+      3  Reserving SSDT table memory at [mem 0x8e844000-0x8e8473ac]
+      3  Reserving SSDT table memory at [mem 0x8e891000-0x8e891917]
+      3  Reserving SSDT table memory at [mem 0x8e894000-0x8e894045]
+      3  Reserving SSDT table memory at [mem 0x8e895000-0x8e895459]
+      3  Reserving SSDT table memory at [mem 0x8e8c2000-0x8e8c5e6b]
+      3  Reserving SSDT table memory at [mem 0x8e931000-0x8e93159a]
+      3  Reserving SSDT table memory at [mem 0x8e932000-0x8e937c4a]
+      3  Reserving SSDT table memory at [mem 0x8e94a000-0x8e94a38b]
+      3  Reserving TPM2 table memory at [mem 0x8e893000-0x8e893033]
+      3  Reserving UEFI table memory at [mem 0x9266a000-0x9266a075]
+      3  Reserving WSMT table memory at [mem 0x8e82f000-0x8e82f027]
+      3  resource 0 [io  0x3000-0x3fff]
+      3  resource 1 [mem 0xa2000000-0xae1fffff]
+      3  resource 1 [mem 0xae200000-0xae2fffff]
+      3  resource 2 [mem 0x6000000000-0x601bffffff 64bit pref]
+      3  resource 4 [io  0x0000-0x0cf7 window]
+      3  resource 5 [io  0x0d00-0xffff window]
+      3  resource 6 [mem 0x000a0000-0x000bffff window]
+      3  resource 7 [mem 0xa0800000-0xbfffffff window]
+      3  resource 8 [mem 0x4000000000-0x7fffffffff window]
+      3  Restarting AppArmor
+      3  Retire a single CALL on VMEXIT
+      3  RFCOMM socket layer initialized
+      3  RFCOMM TTY layer initialized
+      3  RFCOMM ver 1.11
+      3  root bus resource [bus 00-fe]
+      3  root bus resource [io  0x0000-0x0cf7 window]
+      3  root bus resource [io  0x0d00-0xffff window]
+      3  root bus resource [mem 0x000a0000-0x000bffff window]
+      3  root bus resource [mem 0x4000000000-0x7fffffffff window]
+      3  root bus resource [mem 0xa0800000-0xbfffffff window]
+      3  RSDP 0x00000000927FE014 000024 (v02 LENOVO)
+      3  rsyslogd's groupid changed to 111
+      3  rsyslogd's userid changed to 104
+      3  RTC can wake from S4
+      3          Rude variant of Tasks RCU enabled.
+      3  /run/boltd/power
+      3  Run /init as init process
+      3  Running.
+      3  Runtime Journal (/run/log/journal/1c8d9d64a91a434b960a3631a602e9ca) is 8.0M, max 156.6M, 148.6M free.
+      3  s229376 r8192 d114688 u524288 alloc=1*2097152
+      3  SCO socket layer initialized
+      3  SCSI subsystem initialized
+      3  SECCOMP auid=1000 uid=1000 gid=1000 ses=3 subj=snap.snapd-desktop-integration.snapd-desktop-integration pid=2607 comm="snapd-desktop-i" exe="/snap/snapd-desktop-integration/253/usr/bin/snapd-desktop-integration" sig=0 arch=c000003e syscall=141 compat=0 ip=0x72649289c78b code=0x50000
+      3  SECCOMP auid=1000 uid=1000 gid=1000 ses=3 subj=snap.snapd-desktop-integration.snapd-desktop-integration pid=2634 comm="snapd-desktop-i" exe="/snap/snapd-desktop-integration/253/usr/bin/snapd-desktop-integration" sig=0 arch=c000003e syscall=141 compat=0 ip=0x731f75d0a78b code=0x50000
+      3  SECCOMP auid=1000 uid=1000 gid=1000 ses=3 subj=snap.snapd-desktop-integration.snapd-desktop-integration pid=3407 comm="snapd-desktop-i" exe="/snap/snapd-desktop-integration/253/usr/bin/snapd-desktop-integration" sig=0 arch=c000003e syscall=141 compat=0 ip=0x770f9882078b code=0x50000
+      3  secondary fan control detected & enabled
+      3  Secure boot is enabled
+      3  security.apparmor
+      3  security.capability
+      3  security.ima
+      3  security level set to 'user'
+      3  security.selinux
+      3  security.SMACK64
+      3  security.SMACK64EXEC
+      3  security.SMACK64MMAP
+      3  security.SMACK64TRANSMUTE
+      3  Segment Routing with IPv6
+      3  server already running
+      3  Server listening on 0.0.0.0 port 22.
+      3  Session c1 logged out. Waiting for processes to exit.
+      3  session closed for user gdm
+      3  [session uid=1000 pid=1594] Successfully activated service 'org.freedesktop.Tracker3.Miner.Extract'
+      3  set 'CMCC-keFm-5G' (wlp0s20f3) as default for IPv4 routing and DNS
+      3  set 'CMCC-keFm-5G' (wlp0s20f3) as default for IPv6 routing and DNS
+      3  setting as boot VGA device
+      3  setting CLUTTER_IM_MODULE=fcitx
+      3  setting DESKTOP_SESSION=ubuntu
+      3  setting GDMSESSION=ubuntu
+      3  setting GTK_IM_MODULE=fcitx
+      3  setting HOME=/home/mao
+      3  setting IM_CONFIG_PHASE=1
+      3  setting LANG=en_US.UTF-8
+      3  setting LC_ADDRESS=en_CA.UTF-8
+      3  setting LC_IDENTIFICATION=en_CA.UTF-8
+      3  setting LC_MEASUREMENT=en_CA.UTF-8
+      3  setting LC_MONETARY=en_CA.UTF-8
+      3  setting LC_NAME=en_CA.UTF-8
+      3  setting LC_NUMERIC=en_CA.UTF-8
+      3  setting LC_PAPER=en_CA.UTF-8
+      3  setting LC_TELEPHONE=en_CA.UTF-8
+      3  setting LC_TIME=en_CA.UTF-8
+      3  setting LOGNAME=mao
+      3  setting PAPERSIZE=letter
+      3  setting PWD=/home/mao
+      3  setting QT_IM_MODULE=fcitx
+      3  setting SHELL=/bin/zsh
+      3  setting SHLVL=1
+      3  setting simple suspend
+      3  Setting srcu_struct sizes based on contention.
+      3  setting SSH_AGENT_LAUNCHER=gnome-keyring
+      3  setting SSH_AUTH_SOCK=/run/user/1000/keyring/ssh
+      3  setting USER=mao
+      3  setting USERNAME=mao
+      3  setting _=/usr/bin/dbus-update-activation-environment
+      3  setting WINDOWPATH=2
+      3  setting XDG_RUNTIME_DIR=/run/user/1000
+      3  setting XDG_SESSION_CLASS=user
+      3  setting XDG_SESSION_DESKTOP=ubuntu
+      3  setting XDG_SESSION_TYPE=x11
+      3  setting XMODIFIERS=@im=fcitx
+      3  Set to 'normal', was 'performance'
+      3  Set up automount Arbitrary Executable File Formats File System Automount Point.
+      3  sha256
+      3  Signaling with IRQ 122
+      3  Signaling with IRQ 123
+      3  simpledrmdrmfb frame buffer device
+      3  Skip IOMMU disabling for graphics
+      3  Skipped due to 'exec-condition'.
+      3  Sleep Button [SLPB]
+      3  Slot #3 AttnBtn- PwrCtrl- MRL- AttnInd- PwrInd- HotPlug+ Surprise+ Interlock- NoCompl+ IbPresDis- LLActRep+
+      3  Slot [BAT0] (battery present)
+      3  SLPC enabled
+      3  SMBIOS 3.4.0 present.
+      3  SMBus using PCI interrupt
+      3  ...SocketCreateListener() failed
+      3  `Socket Thread' uses wireless extensions which will stop working for Wi-Fi 7 hardware; use nl80211
+      3  Software ver. 5.3.6 - Copyright 2005-2007 Rodolfo Giometti <giometti@linux.it>
+      3  Sorry, home directories outside of /home needs configuration.
+      3  SPD Write Disable is set
+      3 speaker
+      3     speaker_outs=0 (0x0/0x0/0x0/0x0/0x0)
+      3  Speculative Store Bypass disabled via prctl
+      3  Speech Dispatcher 0.11.1 starting
+      3      splash
+      3  SSDT 0x000000008CA03000 000144 (v02 LENOVO ADebTabl 00001000 INTL 20200717)
+      3  SSDT 0x000000008CA04000 0039DA (v02 LENOVO SocCmn   00003000 INTL 20200717)
+      3  SSDT 0x000000008CA08000 00129A (v02 LENOVO SocGpe   00003000 INTL 20200717)
+      3  SSDT 0x000000008E811000 000FDB (v02 LENOVO UsbCTabl 00001000 INTL 20200717)
+      3  SSDT 0x000000008E82C000 002357 (v02 LENOVO TbtTypeC 00000000 INTL 20200717)
+      3  SSDT 0x000000008E831000 008974 (v02 LENOVO TcssSsdt 00001000 INTL 20200717)
+      3  SSDT 0x000000008E83A000 0035CE (v02 LENOVO IgfxSsdt 00003000 INTL 20200717)
+      3  SSDT 0x000000008E83E000 002F4C (v02 LENOVO SaSsdt   00003000 INTL 20200717)
+      3  SSDT 0x000000008E842000 000B5E (v02 LENOVO ProjSsdt 00000010 INTL 20200717)
+      3  SSDT 0x000000008E843000 00011A (v02 LENOVO PID0Ssdt 00000010 INTL 20200717)
+      3  SSDT 0x000000008E844000 0033AD (v02 LENOVO AdlP_Rvp 00001000 INTL 20200717)
+      3  SSDT 0x000000008E891000 000918 (v01 LENOVO WmiTable 00000001 INTL 20200717)
+      3  SSDT 0x000000008E894000 000046 (v02 LENOVO MeSsdt   00003000 INTL 20200717)
+      3  SSDT 0x000000008E895000 00045A (v02 LENOVO Tpm2Tabl 00001000 INTL 20200717)
+      3  SSDT 0x000000008E8C2000 003E6C (v02 LENOVO DptfTabl 00001000 INTL 20200717)
+      3  SSDT 0x000000008E931000 00059B (v02 LENOVO CtdpB    00001000 INTL 20200717)
+      3  SSDT 0x000000008E932000 005C4B (v02 LENOVO CpuSsdt  00003000 INTL 20200717)
+      3  SSDT 0x000000008E94A000 00038C (v02 LENOVO Pmax_Dev 00000001 INTL 20200717)
+      3  'SSE registers'
+      3  Started Accessibility services bus.
+      3  Started Accounts Service.
+      3  Started ACPI event daemon.
+      3  Started ACPI Events Check.
+      3  Started Authorization Manager.
+      3  Started Avahi mDNS/DNS-SD Stack.
+      3  Started Bluetooth service.
+      3  Started Check to see whether there is a new version of Ubuntu available.
+      3  Started Common interface to speech synthesizers.
+      3  Started crash report submission.
+      3  Started Daemon for power management.
+      3  started daemon version 0.105 using authority implementation `local' version `0.105'
+      3  started daemon version 22.07.5
+      3  Started Daily apt download activities.
+      3  Started Daily apt upgrade and clean activities.
+      3  Started Daily Cleanup of Temporary Directories.
+      3  Started Daily dpkg database backup timer.
+      3  Started Daily man-db regeneration.
+      3  Started Daily rotation of log files.
+      3  Started D-Bus System Message Bus.
+      3  Started Discard unused blocks once a week.
+      3  Started Disk Manager.
+      3  Started Dispatcher daemon for systemd-networkd.
+      3  Started Download data for packages that failed at package install time.
+      3  Started Evolution address book service.
+      3  Started Evolution calendar service.
+      3  Started Evolution source registry.
+      3  Started File System Check Daemon to report status.
+      3  Started Firmware update daemon.
+      3  Started Forward Password Requests to Plymouth Directory Watch.
+      3  Started Forward Password Requests to Wall Directory Watch.
+      3  Started GNOME accessibility service.
+      3  Started GNOME color management service.
+      3  Started GNOME date & time service.
+      3  Started GNOME Display Manager.
+      3  Started GNOME file sharing service.
+      3  Started GNOME FreeDesktop screensaver service.
+      3  Started GNOME keyboard configuration service.
+      3  Started GNOME keyboard shortcuts service.
+      3  Started GNOME maintenance of expirable data service.
+      3  Started GNOME power management service.
+      3  Started GNOME printer notifications service.
+      3  Started GNOME RFKill support service.
+      3  Started GNOME Shell on X11.
+      3  Started GNOME smartcard service.
+      3  Started GNOME sound sample caching service.
+      3  Started GNOME Wacom tablet support service.
+      3  Started GNOME XSettings service.
+      3  Started IBus Daemon for GNOME.
+      3  Started irqbalance daemon.
+      3  Started Journal Service.
+      3  Started Load/Save RF Kill Switch Status.
+      3  Started Manage, Install and Generate Color Profiles.
+      3  Started Message of the Day.
+      3  Started Modem Manager.
+      3  Started Monitor Session leader for GNOME Session.
+      3  Started Network Manager.
+      3  Started Network Manager Script Dispatcher Service.
+      3  Started Network Name Resolution.
+      3  Started Network Time Synchronization.
+      3  Started OpenBSD Secure Shell server.
+      3  Started OpenSSH Agent.
+      3  Started PackageKit Daemon.
+      3  Started Path trigger for Apport crash notifications.
+      3  Started Path trigger for new release of Ubuntu notifications.
+      3  Started Periodic ext4 Online Metadata Check for All Filesystems.
+      3  Started Portal service.
+      3  Started Portal service (GNOME implementation).
+      3  Started Portal service (GTK/GNOME implementation).
+      3  Started Power Profiles daemon.
+      3  Started RealtimeKit Scheduling Policy Service.
+      3  Started Refresh fwupd metadata regularly.
+      3  Started Regular background program processing daemon.
+      3  Started Rule-based Manager for Device Events and Files.
+      3  Started Save initial kernel messages after boot.
+      3  Started Session 2 of User mao.
+      3  Started Session c1 of User gdm.
+      3  Started Show Plymouth Boot Screen.
+      3  Started Start whoopsie on modification of the /var/crash directory.
+      3  Started Switcheroo Control Proxy service.
+      3  Started System Logging Service.
+      3  Started Thermal Daemon Service.
+      3  Started Thunderbolt system service.
+      3  Started Tool to automatically collect and submit kernel crash signatures.
+      3  Started Tracker file system data miner.
+      3  Started Trigger anacron every hour.
+      3  Started Unattended Upgrades Shutdown.
+      3  Started User Login Management.
+      3  Started User Manager for UID 1000.
+      3  Started User Manager for UID 128.
+      3  Started User preferences database.
+      3  Started Userspace Out-Of-Memory (OOM) Killer.
+      3  Started Virtual filesystem metadata service.
+      3  Started Virtual filesystem service.
+      3  Started Virtual filesystem service - Apple File Conduit monitor.
+      3  Started Virtual filesystem service - digital camera monitor.
+      3  Started Virtual filesystem service - disk device monitor.
+      3  Started Virtual filesystem service - GNOME Online Accounts monitor.
+      3  Started Virtual filesystem service - Media Transfer Protocol monitor.
+      3  Started WPA supplicant.
+      3  Starting Accessibility services bus...
+      3  Starting Accounts Service...
+      3  Starting Apply Kernel Variables...
+      3  Starting Authorization Manager...
+      3  Starting Avahi mDNS/DNS-SD Stack...
+      3  Starting Bluetooth service...
+      3  Starting Cleanup of Temporary Directories...
+      3  Starting Coldplug All udev Devices...
+      3  starting connection 'CMCC-keFm-5G' (197316c9-0739-4efb-90c4-48b1bc47fee1)
+      3  Starting Create List of Static Device Nodes...
+      3  Starting Create Static Device Nodes in /dev...
+      3  Starting Create System Users...
+      3  Starting Create Volatile Files and Directories...
+      3  Starting Daemon for power management...
+      3  Starting Daily apt download activities...
+      3  Starting Detect the available GPUs and deal with any system changes...
+      3  Starting Disk Manager...
+      3  Starting Dispatcher daemon for systemd-networkd...
+      3  Starting Download data for packages that failed at package install time...
+      3  Starting Evolution address book service...
+      3  Starting Evolution calendar service...
+      3  Starting Evolution source registry...
+      3  Starting File System Check on /dev/disk/by-uuid/572C-9BF7...
+      3  Starting Firmware update daemon...
+      3  Starting Flush Journal to Persistent Storage...
+      3  Starting GNOME accessibility service...
+      3  Starting GNOME color management service...
+      3  Starting GNOME date & time service...
+      3  Starting GNOME Display Manager...
+      3  Starting GNOME file sharing service...
+      3  Starting GNOME FreeDesktop screensaver service...
+      3  Starting GNOME keyboard configuration service...
+      3  Starting GNOME keyboard shortcuts service...
+      3  Starting GNOME maintenance of expirable data service...
+      3  Starting GNOME power management service...
+      3  Starting GNOME printer notifications service...
+      3  Starting GNOME RFKill support service...
+      3  Starting GNOME Shell on Wayland...
+      3  Starting GNOME Shell on X11...
+      3  Starting GNOME smartcard service...
+      3  Starting GNOME sound sample caching service...
+      3  Starting GNOME Wacom tablet support service...
+      3  Starting GNOME XSettings service...
+      3  Starting GRUB failed boot detection...
+      3  Starting Hold until boot process finishes up...
+      3  Starting IBus Daemon for GNOME...
+      3  Starting Journal Service...
+      3  Starting Load AppArmor profiles...
+      3  Starting Load AppArmor profiles managed internally by snapd...
+      3  Starting Load Kernel Module configfs...
+      3  Starting Load Kernel Module drm...
+      3  Starting Load Kernel Module fuse...
+      3  Starting Load Kernel Modules...
+      3  Starting Load/Save Random Seed...
+      3  Starting Load/Save RF Kill Switch Status...
+      3  Starting Manage, Install and Generate Color Profiles...
+      3  Starting Modem Manager...
+      3  Starting Monitor Session leader for GNOME Session...
+      3  Starting Network Manager...
+      3  Starting Network Manager Script Dispatcher Service...
+      3  Starting Network Manager Wait Online...
+      3  Starting Network Name Resolution...
+      3  Starting Network Time Synchronization...
+      3  Starting OpenBSD Secure Shell server...
+      3  Starting OpenVPN service...
+      3  Starting PackageKit Daemon...
+      3  Starting Permit User Sessions...
+      3  Starting Portal service...
+      3  Starting Portal service (GNOME implementation)...
+      3  Starting Portal service (GTK/GNOME implementation)...
+      3  Starting Power Profiles daemon...
+      3  Starting RealtimeKit Scheduling Policy Service...
+      3  Starting Record Runlevel Change in UTMP...
+      3  Starting Record successful boot for GRUB...
+      3  Starting Record System Boot/Shutdown in UTMP...
+      3  Starting Remount Root and Kernel File Systems...
+      3  Starting Remove Stale Online ext4 Metadata Check Snapshots...
+      3  Starting Rewrite dynamic launcher portal entries...
+      3  Starting Rule-based Manager for Device Events and Files...
+      3  Starting Save/Restore Sound Card State...
+      3  Starting SDP server
+      3  Starting Secure Boot updates for DB and DBX...
+      3  Starting Session Migration...
+      3  Starting Set console font and keymap...
+      3  Starting Set console scheme...
+      3  Starting Set the console keyboard layout...
+      3  Starting Set Up Additional Binary Formats...
+      3  Starting Show Plymouth Boot Screen...
+      3  Starting Signal initialization done to GNOME Session Manager...
+      3  Starting snap userd
+      3  Starting Socket activation for snappy daemon...
+      3  Starting Start gnome-keyring as SSH agent...
+      3  Starting Start gnome-keyring for the Secrets Service, and PKCS #11...
+      3  Starting Switcheroo Control Proxy service...
+      3  Starting System Logging Service...
+      3  Starting Tell Plymouth To Write Out Runtime Data...
+      3  Starting Thermal Daemon Service...
+      3  Starting Thunderbolt system service...
+      3  Starting Tool to automatically collect and submit kernel crash signatures...
+      3  Starting Tracker file system data miner...
+      3  Starting Uncomplicated firewall...
+      3  starting up with netlink and the input layer
+      3  Starting User Login Management...
+      3  Starting User Manager for UID 1000...
+      3  Starting User Manager for UID 128...
+      3  Starting User preferences database...
+      3  Starting User Runtime Directory /run/user/1000...
+      3  Starting User Runtime Directory /run/user/128...
+      3  Starting Userspace Out-Of-Memory (OOM) Killer...
+      3  Starting Virtual filesystem metadata service...
+      3  Starting Virtual filesystem service...
+      3  Starting Virtual filesystem service - Apple File Conduit monitor...
+      3  Starting Virtual filesystem service - digital camera monitor...
+      3  Starting Virtual filesystem service - disk device monitor...
+      3  Starting Virtual filesystem service - GNOME Online Accounts monitor...
+      3  Starting Virtual filesystem service - Media Transfer Protocol monitor...
+      3  Starting Wait until snapd is fully seeded...
+      3  Starting WPA supplicant...
+      3  startup complete
+      3  stashed password to try later in open session
+      3  state changed new lease
+      3  state changed new lease, address=192.168.1.17
+      3  state=initialized audit_enabled=0 res=1
+      3  Static calls initialized
+      3  static hostname changed from (none) to "mao-ThinkPad"
+      3  Stopped Make remote CUPS printers available locally.
+      3  Stopped Snap Daemon.
+      3  Stopped User Manager for UID 128.
+      3  Stopped User Runtime Directory /run/user/128.
+      3  Stopping Make remote CUPS printers available locally...
+      3  Stopping User Manager for UID 128...
+      3  Stopping User Runtime Directory /run/user/128...
+      3  submission enabled
+      3  successful, device activated.
+      3  Successfully called chroot().
+      3  Successfully called chroot.
+      3  Successfully dropped privileges.
+      3  Successfully dropped remaining capabilities.
+      3  Successfully dropped root privileges.
+      3  Successfully initialized wpa_supplicant
+      3  Successfully instantiated SPD at 0x50
+      3  Successfully limited resources.
+      3  Supervising 21 threads of 6 processes of 2 users.
+      3  supply vcc not found, using dummy regulator
+      3  (supports S0 S4 S5)
+      3  Suspending AIGLX clients for VT switch
+      3  Switched to clocksource tsc
+      3  Switched to clocksource tsc-early
+      3  switching to colour dummy device 80x25
+      3  Switch to symmetric I/O mode setup
+      3  Synaptics capabilities query result 0x90, 0x18, 0x0d.
+      3  [system] AppArmor D-Bus mediation is enabled
+      3  systemd 249.11-0ubuntu3.12 running in system mode (+PAM +AUDIT +SELINUX +APPARMOR +IMA +SMACK +SECCOMP +GCRYPT +GNUTLS +OPENSSL +ACL +BLKID +CURL +ELFUTILS +FIDO2 +IDN2 -IDN +IPTC +KMOD +LIBCRYPTSETUP +LIBFDISK +PCRE2 -PWQUALITY -P11KIT -QRENCODE +BZIP2 +LZ4 +XZ +ZLIB +ZSTD -XKBCOMMON +UTMP +SYSVINIT default-hierarchy=unified)
+      3  systemd-networkd is not running, output will be incomplete.
+      3  [system] Successfully activated service 'org.freedesktop.ColorManager'
+      3  [system] Successfully activated service 'org.freedesktop.fwupd'
+      3  [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+      3  [system] Successfully activated service 'org.freedesktop.PackageKit'
+      3  [system] Successfully activated service 'org.freedesktop.PolicyKit1'
+      3  [system] Successfully activated service 'org.freedesktop.RealtimeKit1'
+      3  [system] Successfully activated service 'org.freedesktop.UPower'
+      3  Taking over console
+      3  Telepathy is not available, chat integration will be disabled.
+      3      TERM=linux
+      3  the capability attribute has been deprecated.
+      3  The connection is closed (g-io-error-quark, 18)
+      3  The PKCS#11 component was already initialized
+      3  Thermal monitoring enabled (TM1)
+      3  The Secret Service was already initialized
+      3  The SSH agent was already initialized
+      3  ThinkPad ACPI Extras v0.26
+      3  ThinkPad Battery Extension
+      3  ThinkPad BIOS R1SET49W(1.20), EC R1SHT49W
+      3  This ThinkPad has standard ACPI backlight brightness control, supported by the ACPI video driver
+      3  This usually indicates unclean termination of a previous run, or service implementation deficiencies.
+      3  timestamp_bits=36 max_order=22 bucket_order=0
+      3  took control of session /org/freedesktop/login1/session/_32
+      3  took control of session /org/freedesktop/login1/session/c1
+      3  Total of 16 processors activated (67584.00 BogoMIPS)
+      3  TPM2 0x000000008E893000 000034 (v03 LENOVO TP-R1S   00001200 PTEC 00000002)
+      3          Tracing variant of Tasks RCU enabled.
+      3          Trampoline variant of Tasks RCU enabled.
+      3  Transaction for accounts-daemon.service/start is destructive (boot-efi.mount has 'stop' job queued, but 'start' is included in transaction).
+      3  Transaction for accounts-daemon.service/start is destructive (proc-sys-fs-binfmt_misc.automount has 'stop' job queued, but 'start' is included in transaction).
+      3  Transaction for NetworkManager-dispatcher.service/start is destructive (proc-sys-fs-binfmt_misc.automount has 'stop' job queued, but 'start' is included in transaction).
+      3  Transaction for NetworkManager-dispatcher.service/start is destructive (systemd-timesyncd.service has 'stop' job queued, but 'start' is included in transaction).
+      3  Translated
+      3  Trying to set up SMBus access
+      3  Trying to unpack rootfs image as initramfs...
+      3  TSC deadline timer available
+      3  type pbc start...
+      3  udisks daemon version 2.9.4 starting
+      3  UEFI 0x000000009266A000 000076 (v01 LENOVO TP-R1S   00001200 PTEC 00000002)
+      3  unable to locate daemon control file
+      3  Unit dbus-org.freedesktop.network1.service not found.
+      3  Universal TUN/TAP device driver, 1.6
+      3  Unknown group "power" in message bus configuration file
+      3  Unknown kernel command line parameters "splash BOOT_IMAGE=/boot/vmlinuz-6.8.0-58-generic", will be passed to user space.
+      3  unknown NHI PCI id '0x463e'
+      3  unknown NHI PCI id '0x466d'
+      3  Unknown/reserved multi mode value 0x0000 for type 4, please report this to ibm-acpi-devel@lists.sourceforge.net
+      3  unknown sof_ext_man header type 3 size 0x30
+      3   unlabeled traffic allowed by default
+      3  unmanaged
+      3  Up and running.
+      3  update [mem 0x00000000-0x00000fff] usable ==> reserved
+      3  update [mem 0x86edb000-0x86f6bfff] usable ==> reserved
+      3  update [mem 0x88603000-0x88603fff] usable ==> reserved
+      3  USB HID core driver
+      3  USB Receiver
+      3  Used to handle transactions and events
+      3  use msi interrupt mode
+      3  usercopy/swapgs barriers and __user pointer sanitization
+      3  User Mode Instruction Prevention (UMIP) activated
+      3  user-space parallel port driver
+      3  Using ACPI for IRQ routing
+      3  Using ACPI (MADT) for SMP configuration information
+      3  Using configuration type 1 for base access
+      3  Using DHCP client 'internal'
+      3  Using GB pages for direct mapping
+      3  using governor ladder
+      3  using governor menu
+      3  using HDA machine driver skl_hda_dsp_generic now
+      3  Using host bridge windows from ACPI; if necessary, use "pci=nocrs" and report a bug
+      3  using hostnamed
+      3  Using IOAPIC for interrupt routing
+      3  using mwait in idle threads
+      3  Using software bounce buffering for IO (SWIOTLB)
+      3  Using system hostname 'mao-ThinkPad'.
+      3  (++) using VT number 1
+      3  (++) using VT number 2
+      3  usr.sbin.rsyslogd
+      3    /usr/share/secureboot/updates/dbx/dbxupdate_x64.bin [7085 bytes]
+      3  v0.10
+      3  v2.00
+      3  v2.5.1
+      3  /var/lib/boltd
+      3 /var/lib/snapd/desktop
+      3  /var/lock/whoopsie/lock
+      3  version 1.0.3
+      3  version 4.0 (2009/01/31) Phillip Lougher
+      3  VF BAR 0 [mem 0x00000000-0x00ffffff 64bit]
+      3  VF BAR 2 [mem 0x00000000-0x1fffffff 64bit pref]
+      3  Video device with shadowed ROM at [mem 0x000c0000-0x000dffff]
+      3  voluntary
+      3  Waiting for device to boot
+      3  Waiting for firmware download to complete
+      3  Watchdog thread running.
+      3  Watching system buttons on /dev/input/event0 (Sleep Button)
+      3  Watching system buttons on /dev/input/event1 (Lid Switch)
+      3  Watching system buttons on /dev/input/event2 (Power Button)
+      3  Watching system buttons on /dev/input/event3 (AT Translated Set 2 keyboard)
+      3  Watching system buttons on /dev/input/event5 (Logitech Wireless Mouse)
+      3  Watching system buttons on /dev/input/event8 (ThinkPad Extra Buttons)
+      3  WB  WC  UC- UC  WB  WP  UC- WT  
+      3  (wifi) access point 'CMCC-keFm-5G' has security, but secrets are required.
+      3  (wifi) connection 'CMCC-keFm-5G' has security, and secrets exist.  No new secrets needed.
+      3  Wi-Fi enabled by radio killswitch; enabled by state file
+      3  Wi-Fi hardware radio set enabled
+      3  (wifi) Stage 2 of 5 (Device Configure) successful. Connected to wireless network "CMCC-keFm-5G"
+      3  Will monitor session 2
+      3  Will monitor session c1
+      3  WPS-CANCEL
+      3  WSMT 0x000000008E82F000 000028 (v01 LENOVO TP-R1S   00001200 PTEC 00000002)
+      3  WWAN enabled by radio killswitch; enabled by state file
+      3  WWAN hardware radio set enabled
+      3 //www.rsyslog.com"] start
+      3  x2apic enabled
+      3  'x87 floating point registers'
+      3  XSAVE Architectural LBR, PEBS fmt4+-baseline,  AnyThread deprecated, Alderlake Hybrid events, 32-deep LBR, full-width counters, Intel PMU driver.
+      3  XSDT 0x00000000927FC188 000144 (v01 LENOVO TP-R1S   00001200 PTEC 00000002)
+      3    zhaoxin   Shanghai  
